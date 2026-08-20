@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T04:52:22.822Z",
+  "lastUpdated": "2026-08-20T04:21:17.376Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -19,6 +19,24 @@
               "runtime": "2 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
+            }
+          }
+        },
+        "distribute-elements-into-two-arrays-i": {
+          "questionId": "3069",
+          "title": "Distribute Elements Into Two Arrays I",
+          "titleSlug": "distribute-elements-into-two-arrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787199677376,
+              "runtime": "2 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
             }
           }
         }
