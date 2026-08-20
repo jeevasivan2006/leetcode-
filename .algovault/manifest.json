@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:22:23.914Z",
+  "lastUpdated": "2026-08-20T04:22:58.512Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -33,10 +33,27 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787199743914,
+              "syncedAt": 1787199677376,
               "runtime": "2 ms",
-              "memory": "46.5 MB",
+              "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787199778512,
+              "runtime": "623 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
             }
           }
         }
