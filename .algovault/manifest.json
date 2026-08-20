@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:21:17.376Z",
+  "lastUpdated": "2026-08-20T04:22:23.914Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -33,9 +33,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787199677376,
+              "syncedAt": 1787199743914,
               "runtime": "2 ms",
-              "memory": "46.7 MB",
+              "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
             }
           }
