@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:20.531Z",
+  "lastUpdated": "2026-09-27T06:28:24.312Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -948,6 +948,106 @@
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490504312,
+              "runtime": "8 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "number-of-unique-xor-triplets-ii": {
+          "questionId": "3514",
+          "title": "Number of Unique XOR Triplets II",
+          "titleSlug": "number-of-unique-xor-triplets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490504312,
+              "runtime": "407 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Number of Unique XOR Triplets II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490504312,
+              "runtime": "1 ms",
+              "memory": "94.7 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "minimum-score-of-a-path-between-two-cities": {
+          "questionId": "2492",
+          "title": "Minimum Score of a Path Between Two Cities",
+          "titleSlug": "minimum-score-of-a-path-between-two-cities",
+          "difficulty": "Medium",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490504312,
+              "runtime": "28 ms",
+              "memory": "162.7 MB",
+              "githubPath": "LeetCode/Depth-First Search/Minimum Score of a Path Between Two Cities/"
+            }
+          }
+        },
+        "network-recovery-pathways": {
+          "questionId": "3620",
+          "title": "Network Recovery Pathways",
+          "titleSlug": "network-recovery-pathways",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Dynamic Programming",
+            "Graph Theory",
+            "Topological Sort",
+            "Heap (Priority Queue)",
+            "Shortest Path"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490504312,
+              "runtime": "15 ms",
+              "memory": "159.7 MB",
+              "githubPath": "LeetCode/Array/Network Recovery Pathways/"
             }
           }
         }
