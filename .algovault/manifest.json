@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:06.089Z",
+  "lastUpdated": "2026-09-27T06:29:13.130Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1894,6 +1894,134 @@
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
+            }
+          }
+        },
+        "angle-between-hands-of-a-clock": {
+          "questionId": "1344",
+          "title": "Angle Between Hands of a Clock",
+          "titleSlug": "angle-between-hands-of-a-clock",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Math/Angle Between Hands of a Clock/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "0 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "process-string-with-special-operations-ii": {
+          "questionId": "3614",
+          "title": "Process String with Special Operations II",
+          "titleSlug": "process-string-with-special-operations-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "30 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/String/Process String with Special Operations II/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "14 ms",
+              "memory": "93.5 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "dota2-senate": {
+          "questionId": "649",
+          "title": "Dota2 Senate",
+          "titleSlug": "dota2-senate",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "11 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/String/Dota2 Senate/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490553130,
+              "runtime": "20 ms",
+              "memory": "80.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
             }
           }
         }

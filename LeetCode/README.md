@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490546092" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490553139" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -36,6 +36,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
@@ -156,7 +158,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
+| 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 1669 | [Merge In Between Linked Lists](./Linked%20List/Merge%20In%20Between%20Linked%20Lists/) | Medium |
 
@@ -171,6 +175,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
@@ -190,8 +195,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
+| 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
+| 3614 | [Process String with Special Operations II](./String/Process%20String%20with%20Special%20Operations%20II/) | Hard |
 
 </details>
 
