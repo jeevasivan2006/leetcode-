@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:12.578Z",
+  "lastUpdated": "2026-09-27T08:45:19.662Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3262,6 +3262,272 @@
               "runtime": "23 ms",
               "memory": "52.8 MB",
               "githubPath": "LeetCode/Hash Table/Basic Calculator IV/"
+            }
+          }
+        },
+        "number-of-squareful-arrays": {
+          "questionId": "996",
+          "title": "Number of Squareful Arrays",
+          "titleSlug": "number-of-squareful-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "2 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
+            }
+          }
+        },
+        "count-of-range-sum": {
+          "questionId": "327",
+          "title": "Count of Range Sum",
+          "titleSlug": "count-of-range-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Merge Sort",
+            "Ordered Set",
+            "Treap"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "314 ms",
+              "memory": "131.7 MB",
+              "githubPath": "LeetCode/Array/Count of Range Sum/"
+            }
+          }
+        },
+        "basic-calculator": {
+          "questionId": "224",
+          "title": "Basic Calculator",
+          "titleSlug": "basic-calculator",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "15 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Math/Basic Calculator/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "3 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "maximal-rectangle": {
+          "questionId": "85",
+          "title": "Maximal Rectangle",
+          "titleSlug": "maximal-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Matrix",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "15 ms",
+              "memory": "49.6 MB",
+              "githubPath": "LeetCode/Array/Maximal Rectangle/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iii": {
+          "questionId": "123",
+          "title": "Best Time to Buy and Sell Stock III",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "1 ms",
+              "memory": "75.1 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock III/"
+            }
+          }
+        },
+        "word-ladder": {
+          "questionId": "127",
+          "title": "Word Ladder",
+          "titleSlug": "word-ladder",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Breadth-First Search",
+            "Bidirectional Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "94 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Hash Table/Word Ladder/"
+            }
+          }
+        },
+        "find-the-closest-palindrome": {
+          "questionId": "564",
+          "title": "Find the Closest Palindrome",
+          "titleSlug": "find-the-closest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719661,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Math/Find the Closest Palindrome/"
+            }
+          }
+        },
+        "binary-prefix-divisible-by-5": {
+          "questionId": "1018",
+          "title": "Binary Prefix Divisible By 5",
+          "titleSlug": "binary-prefix-divisible-by-5",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719662,
+              "runtime": "3 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Binary Prefix Divisible By 5/"
+            }
+          }
+        },
+        "palindrome-pairs": {
+          "questionId": "336",
+          "title": "Palindrome Pairs",
+          "titleSlug": "palindrome-pairs",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "Hash Function"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719662,
+              "runtime": "1314 ms",
+              "memory": "61.6 MB",
+              "githubPath": "LeetCode/Array/Palindrome Pairs/"
+            }
+          }
+        },
+        "data-stream-as-disjoint-intervals": {
+          "questionId": "352",
+          "title": "Data Stream as Disjoint Intervals",
+          "titleSlug": "data-stream-as-disjoint-intervals",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Binary Search",
+            "Union-Find",
+            "Design",
+            "Data Stream",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719662,
+              "runtime": "19 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Hash Table/Data Stream as Disjoint Intervals/"
+            }
+          }
+        },
+        "integer-to-english-words": {
+          "questionId": "273",
+          "title": "Integer to English Words",
+          "titleSlug": "integer-to-english-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719662,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Math/Integer to English Words/"
+            }
+          }
+        },
+        "shortest-palindrome": {
+          "questionId": "214",
+          "title": "Shortest Palindrome",
+          "titleSlug": "shortest-palindrome",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Rolling Hash",
+            "String Matching",
+            "Hash Function",
+            "Manacher",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498719662,
+              "runtime": "7 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/String/Shortest Palindrome/"
             }
           }
         }
