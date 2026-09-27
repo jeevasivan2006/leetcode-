@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:51.662Z",
+  "lastUpdated": "2026-09-27T08:45:57.625Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4463,6 +4463,175 @@
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Nth Digit/"
+            }
+          }
+        },
+        "additive-number": {
+          "questionId": "306",
+          "title": "Additive Number",
+          "titleSlug": "additive-number",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/String/Additive Number/"
+            }
+          }
+        },
+        "reverse-linked-list-ii": {
+          "questionId": "92",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
+            }
+          }
+        },
+        "compare-version-numbers": {
+          "questionId": "165",
+          "title": "Compare Version Numbers",
+          "titleSlug": "compare-version-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Compare Version Numbers/"
+            }
+          }
+        },
+        "path-sum-ii": {
+          "questionId": "113",
+          "title": "Path Sum II",
+          "titleSlug": "path-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Backtracking/Path Sum II/"
+            }
+          }
+        },
+        "sort-list": {
+          "questionId": "148",
+          "title": "Sort List",
+          "titleSlug": "sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Divide and Conquer",
+            "Sorting",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "7 ms",
+              "memory": "56.1 MB",
+              "githubPath": "LeetCode/Linked List/Sort List/"
+            }
+          }
+        },
+        "add-two-numbers-ii": {
+          "questionId": "445",
+          "title": "Add Two Numbers II",
+          "titleSlug": "add-two-numbers-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "1 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers II/"
+            }
+          }
+        },
+        "valid-number": {
+          "questionId": "65",
+          "title": "Valid Number",
+          "titleSlug": "valid-number",
+          "difficulty": "Hard",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "11 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/String/Valid Number/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "13 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498757625,
+              "runtime": "13 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }
