@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490592374" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490598514" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,12 +24,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
+| 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
@@ -55,16 +58,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
+| 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
@@ -82,6 +88,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
 | 3559 | [Number of Ways to Assign Edge Weights II](./Array/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) | Hard |
 | 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Hard |
+| 3634 | [Minimum Removals to Balance Array](./Array/Minimum%20Removals%20to%20Balance%20Array/) | Medium |
 | 3689 | [Maximum Total Subarray Value I](./Array/Maximum%20Total%20Subarray%20Value%20I/) | Medium |
 | 3691 | [Maximum Total Subarray Value II](./Array/Maximum%20Total%20Subarray%20Value%20II/) | Hard |
 | 3719 | [Longest Balanced Subarray I](./Array/Longest%20Balanced%20Subarray%20I/) | Medium |
@@ -180,6 +187,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
+| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
@@ -256,6 +264,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
 | 1209 | [Remove All Adjacent Duplicates in String II](./String/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
+| 1653 | [Minimum Deletions to Make String Balanced](./String/Minimum%20Deletions%20to%20Make%20String%20Balanced/) | Medium |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 | 3612 | [Process String with Special Operations I](./String/Process%20String%20with%20Special%20Operations%20I/) | Medium |
 | 3614 | [Process String with Special Operations II](./String/Process%20String%20with%20Special%20Operations%20II/) | Hard |
@@ -270,6 +279,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
 
 </details>
 
@@ -282,6 +292,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./Two%20Pointers/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) | Medium |
 
 </details>

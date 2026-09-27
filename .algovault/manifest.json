@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:52.373Z",
+  "lastUpdated": "2026-09-27T06:29:58.512Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2782,6 +2782,213 @@
               "runtime": "103 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Longest Balanced Subarray I/"
+            }
+          }
+        },
+        "balanced-binary-tree": {
+          "questionId": "110",
+          "title": "Balanced Binary Tree",
+          "titleSlug": "balanced-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
+            }
+          }
+        },
+        "minimum-deletions-to-make-string-balanced": {
+          "questionId": "1653",
+          "title": "Minimum Deletions to Make String Balanced",
+          "titleSlug": "minimum-deletions-to-make-string-balanced",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "36 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/String/Minimum Deletions to Make String Balanced/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "minimum-removals-to-balance-array": {
+          "questionId": "3634",
+          "title": "Minimum Removals to Balance Array",
+          "titleSlug": "minimum-removals-to-balance-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "25 ms",
+              "memory": "85.9 MB",
+              "githubPath": "LeetCode/Array/Minimum Removals to Balance Array/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "0 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "count-negative-numbers-in-a-sorted-matrix": {
+          "questionId": "1351",
+          "title": "Count Negative Numbers in a Sorted Matrix",
+          "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Count Negative Numbers in a Sorted Matrix/"
+            }
+          }
+        },
+        "string-compression": {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "3 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Two Pointers/String Compression/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490598512,
+              "runtime": "5 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
             }
           }
         }
