@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:44:39.836Z",
+  "lastUpdated": "2026-09-27T08:44:42.763Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2496,7 +2496,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490580090,
+              "syncedAt": 1790498682763,
               "runtime": "3 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Candy/"
