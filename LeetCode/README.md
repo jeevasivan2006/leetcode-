@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498728117" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498736176" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -33,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
@@ -47,6 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
@@ -57,10 +59,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 336 | [Palindrome Pairs](./Array/Palindrome%20Pairs/) | Hard |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
+| 403 | [Frog Jump](./Array/Frog%20Jump/) | Hard |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
+| 539 | [Minimum Time Difference](./Array/Minimum%20Time%20Difference/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
@@ -82,8 +86,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
+| 1262 | [Greatest Sum Divisible by Three](./Array/Greatest%20Sum%20Divisible%20by%20Three/) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1363 | [Largest Multiple of Three](./Array/Largest%20Multiple%20of%20Three/) | Hard |
+| 1390 | [Four Divisors](./Array/Four%20Divisors/) | Medium |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
@@ -197,6 +203,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 397 | [Integer Replacement](./Dynamic%20Programming/Integer%20Replacement/) | Medium |
+| 629 | [K Inverse Pairs Array](./Dynamic%20Programming/K%20Inverse%20Pairs%20Array/) | Hard |
 | 834 | [Sum of Distances in Tree](./Dynamic%20Programming/Sum%20of%20Distances%20in%20Tree/) | Hard |
 | 3490 | [Count Beautiful Numbers](./Dynamic%20Programming/Count%20Beautiful%20Numbers/) | Hard |
 | 3699 | [Number of ZigZag Arrays I](./Dynamic%20Programming/Number%20of%20ZigZag%20Arrays%20I/) | Hard |
@@ -211,6 +219,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
@@ -235,6 +244,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
@@ -257,6 +267,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
+| 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
@@ -300,10 +311,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 132 | [Palindrome Partitioning II](./String/Palindrome%20Partitioning%20II/) | Hard |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
+| 516 | [Longest Palindromic Subsequence](./String/Longest%20Palindromic%20Subsequence/) | Medium |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
 | 1209 | [Remove All Adjacent Duplicates in String II](./String/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/) | Medium |
+| 1328 | [Break a Palindrome](./String/Break%20a%20Palindrome/) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1653 | [Minimum Deletions to Make String Balanced](./String/Minimum%20Deletions%20to%20Make%20String%20Balanced/) | Medium |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
