@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:04.030Z",
+  "lastUpdated": "2026-09-27T08:46:11.257Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4806,6 +4806,193 @@
               "runtime": "14 ms",
               "memory": "58.9 MB",
               "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771256,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771256,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771256,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "edit-distance": {
+          "questionId": "72",
+          "title": "Edit Distance",
+          "titleSlug": "edit-distance",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771256,
+              "runtime": "5 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/String/Edit Distance/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771256,
+              "runtime": "5 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771257,
+              "runtime": "7 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "remove-nth-node-from-end-of-list": {
+          "questionId": "19",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771257,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771257,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771257,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498771257,
+              "runtime": "1 ms",
+              "memory": "57.3 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
             }
           }
         }

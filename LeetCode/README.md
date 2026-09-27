@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498764033" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498771260" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -39,11 +39,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
+| 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
 | 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
@@ -56,6 +58,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
+| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
@@ -244,6 +247,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
@@ -251,10 +255,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 352 | [Data Stream as Disjoint Intervals](./Hash%20Table/Data%20Stream%20as%20Disjoint%20Intervals/) | Hard |
+| 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
+| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 770 | [Basic Calculator IV](./Hash%20Table/Basic%20Calculator%20IV/) | Hard |
 | 2014 | [Longest Subsequence Repeated k Times](./Hash%20Table/Longest%20Subsequence%20Repeated%20k%20Times/) | Hard |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 | 3714 | [Longest Balanced Substring II](./Hash%20Table/Longest%20Balanced%20Substring%20II/) | Medium |
 
@@ -268,6 +275,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
@@ -297,6 +305,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
@@ -352,6 +361,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
 | 132 | [Palindrome Partitioning II](./String/Palindrome%20Partitioning%20II/) | Hard |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
 | 306 | [Additive Number](./String/Additive%20Number/) | Medium |
