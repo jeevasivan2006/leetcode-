@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490521932" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490526770" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,10 +21,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 46 | [Permutations](./Array/Permutations/) | Medium |
+| 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
+| 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |

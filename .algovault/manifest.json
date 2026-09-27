@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:41.932Z",
+  "lastUpdated": "2026-09-27T06:28:46.770Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1517,6 +1517,83 @@
               "runtime": "3 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490526770,
+              "runtime": "1 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "permutations-ii": {
+          "questionId": "47",
+          "title": "Permutations II",
+          "titleSlug": "permutations-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490526770,
+              "runtime": "3 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Permutations II/"
+            }
+          }
+        },
+        "permutations": {
+          "questionId": "46",
+          "title": "Permutations",
+          "titleSlug": "permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490526770,
+              "runtime": "1 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490526770,
+              "runtime": "137 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
             }
           }
         }
