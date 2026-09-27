@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:44:35.064Z",
+  "lastUpdated": "2026-09-27T08:44:39.836Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2381,7 +2381,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490576908,
+              "syncedAt": 1790498679836,
               "runtime": "22 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
@@ -2402,7 +2402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490576908,
+              "syncedAt": 1790498679836,
               "runtime": "43 ms",
               "memory": "57.1 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
@@ -2421,7 +2421,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490576908,
+              "syncedAt": 1790498679836,
               "runtime": "25 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
@@ -2440,7 +2440,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490576908,
+              "syncedAt": 1790498679836,
               "runtime": "2 ms",
               "memory": "61.6 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
@@ -2460,7 +2460,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490576908,
+              "syncedAt": 1790498679836,
               "runtime": "2 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Longest Mountain in Array/"
@@ -2478,7 +2478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490576908,
+              "syncedAt": 1790498679836,
               "runtime": "1 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Maximum Total Subarray Value I/"
