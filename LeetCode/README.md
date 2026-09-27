@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490576908" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490580091" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -35,6 +35,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |

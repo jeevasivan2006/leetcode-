@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:36.908Z",
+  "lastUpdated": "2026-09-27T06:29:40.090Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2482,6 +2482,24 @@
               "runtime": "1 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Maximum Total Subarray Value I/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490580090,
+              "runtime": "3 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Candy/"
             }
           }
         }
