@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:43:47.582Z",
+  "lastUpdated": "2026-09-27T08:43:52.816Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1532,7 +1532,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490526770,
+              "syncedAt": 1790498632816,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -1551,7 +1551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490526770,
+              "syncedAt": 1790498632816,
               "runtime": "3 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -1569,7 +1569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490526770,
+              "syncedAt": 1790498632816,
               "runtime": "1 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -1590,7 +1590,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490526770,
+              "syncedAt": 1790498632816,
               "runtime": "137 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/Word Search/"
