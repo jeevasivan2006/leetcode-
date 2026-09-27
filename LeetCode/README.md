@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490509211" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490513418" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -56,18 +56,23 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 177 | [Nth Highest Salary](./Database/Nth%20Highest%20Salary/) | Medium |
 | 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 183 | [Customers Who Never Order](./Database/Customers%20Who%20Never%20Order/) | Easy |
 | 184 | [Department Highest Salary](./Database/Department%20Highest%20Salary/) | Medium |
 | 196 | [Delete Duplicate Emails](./Database/Delete%20Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
+| 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 596 | [Classes With at Least 5 Students](./Database/Classes%20With%20at%20Least%205%20Students/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
+| 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 1141 | [User Activity for the Past 30 Days I](./Database/User%20Activity%20for%20the%20Past%2030%20Days%20I/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
+| 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 | 3220 | [Odd and Even Transactions](./Database/Odd%20and%20Even%20Transactions/) | Medium |
 
 </details>
