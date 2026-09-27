@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490563386" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490567457" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -59,10 +59,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1840 | [Maximum Building Height](./Array/Maximum%20Building%20Height/) | Hard |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
+| 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
 | 2812 | [Find the Safest Path in a Grid](./Array/Find%20the%20Safest%20Path%20in%20a%20Grid/) | Medium |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
 | 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
+| 3559 | [Number of Ways to Assign Edge Weights II](./Array/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) | Hard |
 | 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Hard |
 | 3737 | [Count Subarrays With Majority Element I](./Array/Count%20Subarrays%20With%20Majority%20Element%20I/) | Medium |
 | 3739 | [Count Subarrays With Majority Element II](./Array/Count%20Subarrays%20With%20Majority%20Element%20II/) | Hard |
@@ -216,6 +218,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
