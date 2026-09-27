@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:53.152Z",
+  "lastUpdated": "2026-09-27T06:28:56.424Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1726,6 +1726,45 @@
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
+            }
+          }
+        },
+        "maximum-ice-cream-bars": {
+          "questionId": "1833",
+          "title": "Maximum Ice Cream Bars",
+          "titleSlug": "maximum-ice-cream-bars",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490536424,
+              "runtime": "37 ms",
+              "memory": "83.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Ice Cream Bars/"
+            }
+          }
+        },
+        "maximum-building-height": {
+          "questionId": "1840",
+          "title": "Maximum Building Height",
+          "titleSlug": "maximum-building-height",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490536424,
+              "runtime": "61 ms",
+              "memory": "123.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Building Height/"
             }
           }
         }
