@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:20:31.049Z",
+  "lastUpdated": "2026-09-27T06:21:27.992Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -72,6 +72,12 @@
               "syncedAt": 1790490020087,
               "runtime": "1 ms",
               "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
+            },
+            "101112131415161718986754321                pair[i] = j;                pair[j] = i;            }        }        stringbuilder res = new stringbuilder();        int i = 0, dir = 1;        while (i >= 0 && i < n) {            if (s.charat(i) == '(' || s.charat(i) == ')') {                i = pair[i];                int j = st.pop();            else if (s.charat(i) == ')') {        for (int i = 0; i < n; ++i) {            if (s.charat(i) == '(') st.push(i);        deque<integer> st = new arraydeque<>();        int[] pair = new int[n];        int n = s.length();    public string reverseparentheses(string s) { class solution {": {
+              "syncedAt": 1790490087992,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
             }
           }
