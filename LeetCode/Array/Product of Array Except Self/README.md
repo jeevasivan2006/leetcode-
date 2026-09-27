@@ -5,47 +5,32 @@
 
 ## Problem Statement
 
-Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
+<p>Given an integer array <code>nums</code>, return <em>an array</em> <code>answer</code> <em>such that</em> <code>answer[i]</code> <em>is equal to the product of all the elements of</em> <code>nums</code> <em>except</em> <code>nums[i]</code>.</p>
 
-The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
+<p>The product of any prefix or suffix of <code>nums</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</p>
 
-You must write an algorithm that runs in O(n) time and without using the division operation.
+<p>You must write an algorithm that runs in&nbsp;<code>O(n)</code>&nbsp;time and without using the division operation.</p>
 
- 
-Example 1:
-Input: nums = [1,2,3,4]
-Output: [24,12,8,6]
-Example 2:
-Input: nums = [-1,1,0,-3,3]
-Output: [0,0,9,0,0]
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<pre><strong>Input:</strong> nums = [1,2,3,4]
+<strong>Output:</strong> [24,12,8,6]
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> nums = [-1,1,0,-3,3]
+<strong>Output:</strong> [0,0,9,0,0]
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-Constraints:
+<ul>
+	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-30 &lt;= nums[i] &lt;= 30</code></li>
+	<li>The input is generated such that <code>answer[i]</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
+</ul>
 
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong>&nbsp;Can you solve the problem in <code>O(1)</code>&nbsp;extra&nbsp;space complexity? (The output array <strong>does not</strong> count as extra space for space complexity analysis.)</p>
 
-	2 <= nums.length <= 105
-	-30 <= nums[i] <= 30
-	The input is generated such that answer[i] is guaranteed to fit in a 32-bit integer.
-
-
- 
-Follow up: Can you solve the problem in O(1) extra space complexity? (The output array does not count as extra space for space complexity analysis.)
-
-## Examples
-
-```
-Input: nums = [1,2,3,4]
-Output: [24,12,8,6]
-
-Input: nums = [-1,1,0,-3,3]
-Output: [0,0,9,0,0]
-```
-
-## Constraints
-
-- 2 <= nums.length <= 105
-- -30 <= nums[i] <= 30
-- The input is generated such that answer[i] is guaranteed to fit in a 32-bit integer.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
