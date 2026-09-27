@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:20.027Z",
+  "lastUpdated": "2026-09-27T06:29:23.385Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2113,6 +2113,62 @@
               "runtime": "72 ms",
               "memory": "107.6 MB",
               "githubPath": "LeetCode/Array/Daily Temperatures/"
+            }
+          }
+        },
+        "next-greater-element-ii": {
+          "questionId": "503",
+          "title": "Next Greater Element II",
+          "titleSlug": "next-greater-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490563385,
+              "runtime": "16 ms",
+              "memory": "49 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element II/"
+            }
+          }
+        },
+        "min-stack": {
+          "questionId": "155",
+          "title": "Min Stack",
+          "titleSlug": "min-stack",
+          "difficulty": "Medium",
+          "tags": [
+            "Stack",
+            "Design"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490563385,
+              "runtime": "34 ms",
+              "memory": "99.9 MB",
+              "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "weighted-word-mapping": {
+          "questionId": "3838",
+          "title": "Weighted Word Mapping",
+          "titleSlug": "weighted-word-mapping",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490563385,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Weighted Word Mapping/"
             }
           }
         }

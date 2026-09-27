@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490560029" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490563386" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -41,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
+| 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
@@ -65,6 +66,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Hard |
 | 3737 | [Count Subarrays With Majority Element I](./Array/Count%20Subarrays%20With%20Majority%20Element%20I/) | Medium |
 | 3739 | [Count Subarrays With Majority Element II](./Array/Count%20Subarrays%20With%20Majority%20Element%20II/) | Hard |
+| 3838 | [Weighted Word Mapping](./Array/Weighted%20Word%20Mapping/) | Easy |
 
 </details>
 
@@ -193,6 +195,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 | 3700 | [Number of ZigZag Arrays II](./Math/Number%20of%20ZigZag%20Arrays%20II/) | Hard |
+
+</details>
+
+
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
 
 </details>
 
