@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498806990" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498969352" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -192,6 +192,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 1141 | [User Activity for the Past 30 Days I](./Database/User%20Activity%20for%20the%20Past%2030%20Days%20I/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
+| 1179 | [Reformat Department Table](./Database/Reformat%20Department%20Table/) | Easy |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
