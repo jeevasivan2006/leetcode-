@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498705923" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498712579" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -45,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
@@ -54,12 +55,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
+| 719 | [Find K-th Smallest Pair Distance](./Array/Find%20K-th%20Smallest%20Pair%20Distance/) | Hard |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
+| 798 | [Smallest Rotation with Highest Score](./Array/Smallest%20Rotation%20with%20Highest%20Score/) | Hard |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
+| 891 | [Sum of Subsequence Widths](./Array/Sum%20of%20Subsequence%20Widths/) | Hard |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
@@ -70,6 +74,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1643 | [Kth Smallest Instructions](./Array/Kth%20Smallest%20Instructions/) | Hard |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
@@ -84,6 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2906 | [Construct Product Matrix](./Array/Construct%20Product%20Matrix/) | Medium |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
+| 3288 | [Length of the Longest Increasing Path](./Array/Length%20of%20the%20Longest%20Increasing%20Path/) | Hard |
 | 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
 | 3559 | [Number of Ways to Assign Edge Weights II](./Array/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) | Hard |
@@ -174,6 +180,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 834 | [Sum of Distances in Tree](./Dynamic%20Programming/Sum%20of%20Distances%20in%20Tree/) | Hard |
+| 3490 | [Count Beautiful Numbers](./Dynamic%20Programming/Count%20Beautiful%20Numbers/) | Hard |
 | 3699 | [Number of ZigZag Arrays I](./Dynamic%20Programming/Number%20of%20ZigZag%20Arrays%20I/) | Hard |
 
 </details>
@@ -191,6 +199,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
+| 770 | [Basic Calculator IV](./Hash%20Table/Basic%20Calculator%20IV/) | Hard |
+| 2014 | [Longest Subsequence Repeated k Times](./Hash%20Table/Longest%20Subsequence%20Repeated%20k%20Times/) | Hard |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
 | 3714 | [Longest Balanced Substring II](./Hash%20Table/Longest%20Balanced%20Substring%20II/) | Medium |
 
@@ -224,9 +234,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
+| 878 | [Nth Magical Number](./Math/Nth%20Magical%20Number/) | Hard |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
+| 2719 | [Count of Integers](./Math/Count%20of%20Integers/) | Hard |
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 | 3536 | [Maximum Product of Two Digits](./Math/Maximum%20Product%20of%20Two%20Digits/) | Easy |
 | 3558 | [Number of Ways to Assign Edge Weights I](./Math/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) | Medium |

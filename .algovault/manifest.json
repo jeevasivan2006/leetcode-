@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:05.922Z",
+  "lastUpdated": "2026-09-27T08:45:12.578Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3006,6 +3006,262 @@
               "runtime": "566 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Books with No Available Copies/"
+            }
+          }
+        },
+        "length-of-the-longest-increasing-path": {
+          "questionId": "3288",
+          "title": "Length of the Longest Increasing Path",
+          "titleSlug": "length-of-the-longest-increasing-path",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting",
+            "Longest Increasing Subsequence"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "46 ms",
+              "memory": "169.1 MB",
+              "githubPath": "LeetCode/Array/Length of the Longest Increasing Path/"
+            }
+          }
+        },
+        "kth-smallest-instructions": {
+          "questionId": "1643",
+          "title": "Kth Smallest Instructions",
+          "titleSlug": "kth-smallest-instructions",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Kth Smallest Instructions/"
+            }
+          }
+        },
+        "count-beautiful-numbers": {
+          "questionId": "3490",
+          "title": "Count Beautiful Numbers",
+          "titleSlug": "count-beautiful-numbers",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "189 ms",
+              "memory": "51.8 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Count Beautiful Numbers/"
+            }
+          }
+        },
+        "count-of-integers": {
+          "questionId": "2719",
+          "title": "Count of Integers",
+          "titleSlug": "count-of-integers",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "35 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Math/Count of Integers/"
+            }
+          }
+        },
+        "sum-of-distances-in-tree": {
+          "questionId": "834",
+          "title": "Sum of Distances in Tree",
+          "titleSlug": "sum-of-distances-in-tree",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Graph Theory",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "67 ms",
+              "memory": "138.9 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Sum of Distances in Tree/"
+            }
+          }
+        },
+        "find-k-th-smallest-pair-distance": {
+          "questionId": "719",
+          "title": "Find K-th Smallest Pair Distance",
+          "titleSlug": "find-k-th-smallest-pair-distance",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "224 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Find K-th Smallest Pair Distance/"
+            }
+          }
+        },
+        "sum-of-subsequence-widths": {
+          "questionId": "891",
+          "title": "Sum of Subsequence Widths",
+          "titleSlug": "sum-of-subsequence-widths",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "36 ms",
+              "memory": "64.8 MB",
+              "githubPath": "LeetCode/Array/Sum of Subsequence Widths/"
+            }
+          }
+        },
+        "create-maximum-number": {
+          "questionId": "321",
+          "title": "Create Maximum Number",
+          "titleSlug": "create-maximum-number",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "8 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Create Maximum Number/"
+            }
+          }
+        },
+        "longest-subsequence-repeated-k-times": {
+          "questionId": "2014",
+          "title": "Longest Subsequence Repeated k Times",
+          "titleSlug": "longest-subsequence-repeated-k-times",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Backtracking",
+            "Counting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "148 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Subsequence Repeated k Times/"
+            }
+          }
+        },
+        "nth-magical-number": {
+          "questionId": "878",
+          "title": "Nth Magical Number",
+          "titleSlug": "nth-magical-number",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Binary Search",
+            "Least Common Multiple",
+            "Inclusion-Exclusion Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Nth Magical Number/"
+            }
+          }
+        },
+        "smallest-rotation-with-highest-score": {
+          "questionId": "798",
+          "title": "Smallest Rotation with Highest Score",
+          "titleSlug": "smallest-rotation-with-highest-score",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "7 ms",
+              "memory": "76.9 MB",
+              "githubPath": "LeetCode/Array/Smallest Rotation with Highest Score/"
+            }
+          }
+        },
+        "largest-palindrome-product": {
+          "questionId": "479",
+          "title": "Largest Palindrome Product",
+          "titleSlug": "largest-palindrome-product",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712577,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Largest Palindrome Product/"
+            }
+          }
+        },
+        "basic-calculator-iv": {
+          "questionId": "770",
+          "title": "Basic Calculator IV",
+          "titleSlug": "basic-calculator-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498712578,
+              "runtime": "23 ms",
+              "memory": "52.8 MB",
+              "githubPath": "LeetCode/Hash Table/Basic Calculator IV/"
             }
           }
         }
