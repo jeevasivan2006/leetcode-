@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:27.456Z",
+  "lastUpdated": "2026-09-27T06:29:32.002Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2228,6 +2228,143 @@
               "runtime": "39 ms",
               "memory": "54.4 MB",
               "githubPath": "LeetCode/Array/Equal Row and Column Pairs/"
+            }
+          }
+        },
+        "number-of-ways-to-assign-edge-weights-i": {
+          "questionId": "3558",
+          "title": "Number of Ways to Assign Edge Weights I",
+          "titleSlug": "number-of-ways-to-assign-edge-weights-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Tree",
+            "Depth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "112 ms",
+              "memory": "291.7 MB",
+              "githubPath": "LeetCode/Math/Number of Ways to Assign Edge Weights I/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "2 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
+            }
+          }
+        },
+        "maximum-total-subarray-value-ii": {
+          "questionId": "3691",
+          "title": "Maximum Total Subarray Value II",
+          "titleSlug": "maximum-total-subarray-value-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Segment Tree",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "325 ms",
+              "memory": "146.5 MB",
+              "githubPath": "LeetCode/Array/Maximum Total Subarray Value II/"
+            }
+          }
+        },
+        "max-chunks-to-make-sorted": {
+          "questionId": "769",
+          "title": "Max Chunks To Make Sorted",
+          "titleSlug": "max-chunks-to-make-sorted",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Greedy",
+            "Sorting",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Max Chunks To Make Sorted/"
+            }
+          }
+        },
+        "find-k-closest-elements": {
+          "questionId": "658",
+          "title": "Find K Closest Elements",
+          "titleSlug": "find-k-closest-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "4 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Find K Closest Elements/"
+            }
+          }
+        },
+        "partition-array-according-to-given-pivot": {
+          "questionId": "2161",
+          "title": "Partition Array According to Given Pivot",
+          "titleSlug": "partition-array-according-to-given-pivot",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490572002,
+              "runtime": "5 ms",
+              "memory": "159.4 MB",
+              "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
             }
           }
         }
