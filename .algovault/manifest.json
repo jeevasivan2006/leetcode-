@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:23:51.118Z",
+  "lastUpdated": "2026-09-27T06:23:54.644Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "2 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
@@ -33,7 +33,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "2 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
@@ -50,7 +50,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "803 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
@@ -69,7 +69,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
@@ -77,12 +77,6 @@
             "101112131415161718986754321                pair[i] = j;                pair[j] = i;            }        }        stringbuilder res = new stringbuilder();        int i = 0, dir = 1;        while (i >= 0 && i < n) {            if (s.charat(i) == '(' || s.charat(i) == ')') {                i = pair[i];                int j = st.pop();            else if (s.charat(i) == ')') {        for (int i = 0; i < n; ++i) {            if (s.charat(i) == '(') st.push(i);        deque<integer> st = new arraydeque<>();        int[] pair = new int[n];        int n = s.length();    public string reverseparentheses(string s) { class solution {": {
               "syncedAt": 1790490087992,
               "runtime": "0 ms",
-              "memory": "N/A",
-              "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
-            },
-            "123456789101112131415161718class solution {     public string reverseparentheses(string s) {         int n = s.length();        int[] pair = new int[n];        deque<integer> st = new arraydeque<>();        for (int i = 0; i < n; ++i) {            if (s.charat(i) == '(') st.push(i);            else if (s.charat(i) == ')') {                int j = st.pop();                pair[i] = j;                pair[j] = i;            }        }        stringbuilder res = new stringbuilder();        int i = 0, dir = 1;        while (i >= 0 && i < n) {            if (s.charat(i) == '(' || s.charat(i) == ')') {                i = pair[i];": {
-              "syncedAt": 1790490231118,
-              "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
             }
@@ -98,7 +92,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "2 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
@@ -115,7 +109,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "329 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -132,7 +126,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "586 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
@@ -149,7 +143,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "369 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -166,7 +160,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -183,7 +177,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "929 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
@@ -200,7 +194,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490020087,
+              "syncedAt": 1790490227258,
               "runtime": "1033 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -217,7 +211,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "383 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -234,7 +228,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "486 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
@@ -251,7 +245,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -268,7 +262,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "784 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -288,7 +282,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -308,7 +302,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "122 ms",
               "memory": "156.2 MB",
               "githubPath": "LeetCode/Array/Longest Substring of One Repeating Character/"
@@ -331,7 +325,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "2 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
@@ -350,7 +344,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026085,
+              "syncedAt": 1790490234644,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -369,7 +363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
@@ -389,7 +383,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "3 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/String/Generate Parentheses/"
@@ -408,7 +402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Math/Minimum Number of Pushes to Type Word I/"
@@ -428,7 +422,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "224 ms",
               "memory": "200.1 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Lexicographically Smallest Valid Sequence/"
@@ -448,7 +442,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "1 ms",
               "memory": "69 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -468,7 +462,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "0 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -487,7 +481,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490026086,
+              "syncedAt": 1790490234644,
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
