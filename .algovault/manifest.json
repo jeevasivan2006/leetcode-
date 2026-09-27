@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:11.257Z",
+  "lastUpdated": "2026-09-27T08:46:15.782Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2989,6 +2989,12 @@
               "runtime": "5 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            },
+            "python": {
+              "syncedAt": 1790498775782,
+              "runtime": "23 ms",
+              "memory": "13.7 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
             }
           }
         },
@@ -4993,6 +4999,97 @@
               "runtime": "1 ms",
               "memory": "57.3 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498775782,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498775782,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498775782,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498775782,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "split-a-string-in-balanced-strings": {
+          "questionId": "1221",
+          "title": "Split a String in Balanced Strings",
+          "titleSlug": "split-a-string-in-balanced-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498775782,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
             }
           }
         }
