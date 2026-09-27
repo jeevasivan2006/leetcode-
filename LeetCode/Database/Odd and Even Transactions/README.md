@@ -5,8 +5,9 @@
 
 ## Problem Statement
 
-Table: transactions
+<p>Table: <code>transactions</code></p>
 
+<pre>
 +------------------+------+
 | Column Name      | Type | 
 +------------------+------+
@@ -16,22 +17,23 @@ Table: transactions
 +------------------+------+
 The transactions_id column uniquely identifies each row in this table.
 Each row of this table contains the transaction id, amount and transaction date.
+</pre>
 
+<p>Write a solution to find the <strong>sum of amounts</strong> for <strong>odd</strong> and <strong>even</strong> transactions for each day. If there are no odd or even transactions for a specific date, display as <code>0</code>.</p>
 
-Write a solution to find the sum of amounts for odd and even transactions for each day. If there are no odd or even transactions for a specific date, display as 0.
+<p>Return <em>the result table ordered by</em> <code>transaction_date</code> <em>in <strong>ascending</strong> order</em>.</p>
 
-Return the result table ordered by transaction_date in ascending order.
+<p>The result format is in the following example.</p>
 
-The result format is in the following example.
+<p>&nbsp;</p>
+<p><strong class="example">Example:</strong></p>
 
- 
-Example:
+<div class="example-block">
+<p><strong>Input:</strong></p>
 
+<p><code>transactions</code> table:</p>
 
-Input:
-
-transactions table:
-
+<pre class="example-io">
 +----------------+--------+------------------+
 | transaction_id | amount | transaction_date |
 +----------------+--------+------------------+
@@ -42,10 +44,11 @@ transactions table:
 | 5              | 50     | 2024-07-02       |
 | 6              | 120    | 2024-07-03       |
 +----------------+--------+------------------+
-  
+  </pre>
 
-Output:
+<p><strong>Output:</strong></p>
 
+<pre class="example-io">
 +------------------+---------+----------+
 | transaction_date | odd_sum | even_sum |
 +------------------+---------+----------+
@@ -53,42 +56,38 @@ Output:
 | 2024-07-02       | 0       | 350      |
 | 2024-07-03       | 0       | 120      |
 +------------------+---------+----------+
-  
+  </pre>
 
-Explanation:
+<p><strong>Explanation:</strong></p>
 
+<ul>
+	<li>For transaction dates:
+	<ul>
+		<li>2024-07-01:
+		<ul>
+			<li>Sum of amounts for odd transactions: 75</li>
+			<li>Sum of amounts for even transactions: 150 + 200 = 350</li>
+		</ul>
+		</li>
+		<li>2024-07-02:
+		<ul>
+			<li>Sum of amounts for odd transactions: 0</li>
+			<li>Sum of amounts for even transactions: 300 + 50 = 350</li>
+		</ul>
+		</li>
+		<li>2024-07-03:
+		<ul>
+			<li>Sum of amounts for odd transactions: 0</li>
+			<li>Sum of amounts for even transactions: 120</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
 
-	For transaction dates:
-	
-		2024-07-01:
-		
-			Sum of amounts for odd transactions: 75
-			Sum of amounts for even transactions: 150 + 200 = 350
-		
-		
-		2024-07-02:
-		
-			Sum of amounts for odd transactions: 0
-			Sum of amounts for even transactions: 300 + 50 = 350
-		
-		
-		2024-07-03:
-		
-			Sum of amounts for odd transactions: 0
-			Sum of amounts for even transactions: 120
-		
-		
-	
-	
+<p><strong>Note:</strong> The output table is ordered by <code>transaction_date</code> in ascending order.</p>
+</div>
 
-
-Note: The output table is ordered by transaction_date in ascending order.
-
-## Examples
-
-```
-See problem description.
-```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
