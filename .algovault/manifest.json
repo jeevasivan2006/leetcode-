@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:44.103Z",
+  "lastUpdated": "2026-09-27T08:46:46.987Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5605,6 +5605,12 @@
               "runtime": "1 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
+            },
+            "cpp": {
+              "syncedAt": 1790498806986,
+              "runtime": "0 ms",
+              "memory": "8.7 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
             }
           }
         },
@@ -5622,6 +5628,12 @@
               "syncedAt": 1790498804103,
               "runtime": "0 ms",
               "memory": "40.6 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            },
+            "cpp": {
+              "syncedAt": 1790498806987,
+              "runtime": "0 ms",
+              "memory": "7.9 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
             }
           }
@@ -5643,6 +5655,28 @@
               "runtime": "0 ms",
               "memory": "40.6 MB",
               "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Impartial Game"
+          ],
+          "solutions": {
+            "cpp": {
+              "syncedAt": 1790498806987,
+              "runtime": "0 ms",
+              "memory": "7.8 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
             }
           }
         }
