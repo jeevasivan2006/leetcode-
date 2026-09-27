@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498736176" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498745938" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,11 +19,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
 | 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
@@ -49,6 +51,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 135 | [Candy](./Array/Candy/) | Hard |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
@@ -60,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
 | 403 | [Frog Jump](./Array/Frog%20Jump/) | Hard |
+| 436 | [Find Right Interval](./Array/Find%20Right%20Interval/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
@@ -71,8 +75,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 719 | [Find K-th Smallest Pair Distance](./Array/Find%20K-th%20Smallest%20Pair%20Distance/) | Hard |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
+| 740 | [Delete and Earn](./Array/Delete%20and%20Earn/) | Medium |
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
 | 798 | [Smallest Rotation with Highest Score](./Array/Smallest%20Rotation%20with%20Highest%20Score/) | Hard |
+| 813 | [Largest Sum of Averages](./Array/Largest%20Sum%20of%20Averages/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
@@ -85,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
+| 1073 | [Adding Two Negabinary Numbers](./Array/Adding%20Two%20Negabinary%20Numbers/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1262 | [Greatest Sum Divisible by Three](./Array/Greatest%20Sum%20Divisible%20by%20Three/) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
@@ -244,7 +251,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
+| 23 | [Merge k Sorted Lists](./Linked%20List/Merge%20k%20Sorted%20Lists/) | Hard |
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
+| 25 | [Reverse Nodes in k-Group](./Linked%20List/Reverse%20Nodes%20in%20k-Group/) | Hard |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
@@ -263,14 +272,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
+| 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
+| 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
 | 878 | [Nth Magical Number](./Math/Nth%20Magical%20Number/) | Hard |
 | 906 | [Super Palindromes](./Math/Super%20Palindromes/) | Hard |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |

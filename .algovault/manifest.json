@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:36.172Z",
+  "lastUpdated": "2026-09-27T08:45:45.937Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4090,6 +4090,250 @@
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Break a Palindrome/"
+            }
+          }
+        },
+        "adding-two-negabinary-numbers": {
+          "questionId": "1073",
+          "title": "Adding Two Negabinary Numbers",
+          "titleSlug": "adding-two-negabinary-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745936,
+              "runtime": "7 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Adding Two Negabinary Numbers/"
+            }
+          }
+        },
+        "largest-sum-of-averages": {
+          "questionId": "813",
+          "title": "Largest Sum of Averages",
+          "titleSlug": "largest-sum-of-averages",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "9 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Largest Sum of Averages/"
+            }
+          }
+        },
+        "sum-of-square-numbers": {
+          "questionId": "633",
+          "title": "Sum of Square Numbers",
+          "titleSlug": "sum-of-square-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Sum of Square Numbers/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "0 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "find-right-interval": {
+          "questionId": "436",
+          "title": "Find Right Interval",
+          "titleSlug": "find-right-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "11 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Array/Find Right Interval/"
+            }
+          }
+        },
+        "gray-code": {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "4 ms",
+              "memory": "51.7 MB",
+              "githubPath": "LeetCode/Math/Gray Code/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "number-of-digit-one": {
+          "questionId": "233",
+          "title": "Number of Digit One",
+          "titleSlug": "number-of-digit-one",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Number of Digit One/"
+            }
+          }
+        },
+        "delete-and-earn": {
+          "questionId": "740",
+          "title": "Delete and Earn",
+          "titleSlug": "delete-and-earn",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "11 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Delete and Earn/"
+            }
+          }
+        },
+        "reverse-nodes-in-k-group": {
+          "questionId": "25",
+          "title": "Reverse Nodes in k-Group",
+          "titleSlug": "reverse-nodes-in-k-group",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Nodes in k-Group/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "17 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "1 ms",
+              "memory": "56.9 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "merge-k-sorted-lists": {
+          "questionId": "23",
+          "title": "Merge k Sorted Lists",
+          "titleSlug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort",
+            "Tournament Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498745937,
+              "runtime": "4 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
             }
           }
         }
