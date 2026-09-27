@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:44:42.763Z",
+  "lastUpdated": "2026-09-27T08:44:46.376Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2515,7 +2515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490583927,
+              "syncedAt": 1790498686376,
               "runtime": "84 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Removing Stars From a String/"
@@ -2533,7 +2533,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490583927,
+              "syncedAt": 1790498686376,
               "runtime": "24 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -2552,7 +2552,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490583927,
+              "syncedAt": 1790498686376,
               "runtime": "3 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -2572,7 +2572,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490583927,
+              "syncedAt": 1790498686376,
               "runtime": "6 ms",
               "memory": "130.3 MB",
               "githubPath": "LeetCode/Linked List/Remove Nodes From Linked List/"
