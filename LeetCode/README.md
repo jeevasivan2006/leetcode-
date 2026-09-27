@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490583928" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490588247" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -40,6 +40,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
@@ -71,6 +72,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
 | 2812 | [Find the Safest Path in a Grid](./Array/Find%20the%20Safest%20Path%20in%20a%20Grid/) | Medium |
+| 2906 | [Construct Product Matrix](./Array/Construct%20Product%20Matrix/) | Medium |
+| 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
 | 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
@@ -190,6 +193,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
+| 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
+| 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
 | 1669 | [Merge In Between Linked Lists](./Linked%20List/Merge%20In%20Between%20Linked%20Lists/) | Medium |
 | 2487 | [Remove Nodes From Linked List](./Linked%20List/Remove%20Nodes%20From%20Linked%20List/) | Medium |
 

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:43.927Z",
+  "lastUpdated": "2026-09-27T06:29:48.247Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2576,6 +2576,97 @@
               "runtime": "6 ms",
               "memory": "130.3 MB",
               "githubPath": "LeetCode/Linked List/Remove Nodes From Linked List/"
+            }
+          }
+        },
+        "matrix-similarity-after-cyclic-shifts": {
+          "questionId": "2946",
+          "title": "Matrix Similarity After Cyclic Shifts",
+          "titleSlug": "matrix-similarity-after-cyclic-shifts",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490588247,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Matrix Similarity After Cyclic Shifts/"
+            }
+          }
+        },
+        "odd-even-linked-list": {
+          "questionId": "328",
+          "title": "Odd Even Linked List",
+          "titleSlug": "odd-even-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490588247,
+              "runtime": "0 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Linked List/Odd Even Linked List/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490588247,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "construct-product-matrix": {
+          "questionId": "2906",
+          "title": "Construct Product Matrix",
+          "titleSlug": "construct-product-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490588247,
+              "runtime": "59 ms",
+              "memory": "121.5 MB",
+              "githubPath": "LeetCode/Array/Construct Product Matrix/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490588247,
+              "runtime": "3 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
             }
           }
         }
