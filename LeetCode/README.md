@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490504312" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490509211" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -26,6 +26,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
@@ -34,7 +35,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
+| 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
+| 2812 | [Find the Safest Path in a Grid](./Array/Find%20the%20Safest%20Path%20in%20a%20Grid/) | Medium |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
 | 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
@@ -60,6 +63,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
+| 1141 | [User Activity for the Past 30 Days I](./Database/User%20Activity%20for%20the%20Past%2030%20Days%20I/) | Easy |
+| 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
+| 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
+| 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
 | 3220 | [Odd and Even Transactions](./Database/Odd%20and%20Even%20Transactions/) | Medium |
 
 </details>

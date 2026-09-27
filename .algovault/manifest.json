@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:24.312Z",
+  "lastUpdated": "2026-09-27T06:28:29.209Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1048,6 +1048,152 @@
               "runtime": "15 ms",
               "memory": "159.7 MB",
               "githubPath": "LeetCode/Array/Network Recovery Pathways/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490509209,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "find-the-safest-path-in-a-grid": {
+          "questionId": "2812",
+          "title": "Find the Safest Path in a Grid",
+          "titleSlug": "find-the-safest-path-in-a-grid",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490509209,
+              "runtime": "121 ms",
+              "memory": "119.1 MB",
+              "githubPath": "LeetCode/Array/Find the Safest Path in a Grid/"
+            }
+          }
+        },
+        "user-activity-for-the-past-30-days-i": {
+          "questionId": "1141",
+          "title": "User Activity for the Past 30 Days I",
+          "titleSlug": "user-activity-for-the-past-30-days-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490509209,
+              "runtime": "516 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/User Activity for the Past 30 Days I/"
+            }
+          }
+        },
+        "article-views-i": {
+          "questionId": "1148",
+          "title": "Article Views I",
+          "titleSlug": "article-views-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490509209,
+              "runtime": "449 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490509209,
+              "runtime": "272 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "patients-with-a-condition": {
+          "questionId": "1527",
+          "title": "Patients With a Condition",
+          "titleSlug": "patients-with-a-condition",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490509209,
+              "runtime": "478 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Patients With a Condition/"
+            }
+          }
+        },
+        "find-minimum-time-to-finish-all-jobs": {
+          "questionId": "1723",
+          "title": "Find Minimum Time to Finish All Jobs",
+          "titleSlug": "find-minimum-time-to-finish-all-jobs",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490509209,
+              "runtime": "10 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Find Minimum Time to Finish All Jobs/"
+            }
+          }
+        },
+        "find-followers-count": {
+          "questionId": "1729",
+          "title": "Find Followers Count",
+          "titleSlug": "find-followers-count",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490509209,
+              "runtime": "564 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Followers Count/"
             }
           }
         }
