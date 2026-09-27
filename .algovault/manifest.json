@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:46.770Z",
+  "lastUpdated": "2026-09-27T06:28:53.152Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1594,6 +1594,138 @@
               "runtime": "137 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "merge-in-between-linked-lists": {
+          "questionId": "1669",
+          "title": "Merge In Between Linked Lists",
+          "titleSlug": "merge-in-between-linked-lists",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "7 ms",
+              "memory": "52.2 MB",
+              "githubPath": "LeetCode/Linked List/Merge In Between Linked Lists/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "shortest-subarray-with-sum-at-least-k": {
+          "questionId": "862",
+          "title": "Shortest Subarray with Sum at Least K",
+          "titleSlug": "shortest-subarray-with-sum-at-least-k",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Prefix Sum",
+            "Monotonic Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "127 ms",
+              "memory": "109.6 MB",
+              "githubPath": "LeetCode/Array/Shortest Subarray with Sum at Least K/"
+            }
+          }
+        },
+        "number-of-zigzag-arrays-ii": {
+          "questionId": "3700",
+          "title": "Number of ZigZag Arrays II",
+          "titleSlug": "number-of-zigzag-arrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "289 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Math/Number of ZigZag Arrays II/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "number-of-zigzag-arrays-i": {
+          "questionId": "3699",
+          "title": "Number of ZigZag Arrays I",
+          "titleSlug": "number-of-zigzag-arrays-i",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "339 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Number of ZigZag Arrays I/"
+            }
+          }
+        },
+        "n-queens": {
+          "questionId": "51",
+          "title": "N-Queens",
+          "titleSlug": "n-queens",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Algorithm X"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490533152,
+              "runtime": "2 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/N-Queens/"
             }
           }
         }
