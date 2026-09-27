@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498795473" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498799545" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -332,8 +332,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
+| 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
+| 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 371 | [Sum of Two Integers](./Math/Sum%20of%20Two%20Integers/) | Medium |
 | 400 | [Nth Digit](./Math/Nth%20Digit/) | Medium |
@@ -344,6 +346,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 829 | [Consecutive Numbers Sum](./Math/Consecutive%20Numbers%20Sum/) | Hard |
 | 878 | [Nth Magical Number](./Math/Nth%20Magical%20Number/) | Hard |
 | 906 | [Super Palindromes](./Math/Super%20Palindromes/) | Hard |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 2719 | [Count of Integers](./Math/Count%20of%20Integers/) | Hard |
