@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:33.417Z",
+  "lastUpdated": "2026-09-27T06:28:37.960Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1279,6 +1279,144 @@
               "runtime": "589 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490517960,
+              "runtime": "700 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "number-of-strings-that-appear-as-substrings-in-word": {
+          "questionId": "1967",
+          "title": "Number of Strings That Appear as Substrings in Word",
+          "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490517960,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
+            }
+          }
+        },
+        "number-of-ways-to-wear-different-hats-to-each-other": {
+          "questionId": "1434",
+          "title": "Number of Ways to Wear Different Hats to Each Other",
+          "titleSlug": "number-of-ways-to-wear-different-hats-to-each-other",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask",
+            "Bipartite Graph",
+            "Matching (Graph)",
+            "Perfect Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490517960,
+              "runtime": "22 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Number of Ways to Wear Different Hats to Each Other/"
+            }
+          }
+        },
+        "unique-paths-iii": {
+          "questionId": "980",
+          "title": "Unique Paths III",
+          "titleSlug": "unique-paths-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation",
+            "Matrix",
+            "Hamiltonian Path"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490517960,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Unique Paths III/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490517960,
+              "runtime": "1 ms",
+              "memory": "77.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "maximum-erasure-value": {
+          "questionId": "1695",
+          "title": "Maximum Erasure Value",
+          "titleSlug": "maximum-erasure-value",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490517960,
+              "runtime": "51 ms",
+              "memory": "93.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Erasure Value/"
+            }
+          }
+        },
+        "continuous-subarray-sum": {
+          "questionId": "523",
+          "title": "Continuous Subarray Sum",
+          "titleSlug": "continuous-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Prefix Sum",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490517960,
+              "runtime": "23 ms",
+              "memory": "139.7 MB",
+              "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
             }
           }
         }

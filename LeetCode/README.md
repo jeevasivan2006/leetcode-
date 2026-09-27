@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490513418" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490517962" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
 | 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
@@ -31,11 +32,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
+| 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
+| 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
+| 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
+| 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
+| 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
 | 2812 | [Find the Safest Path in a Grid](./Array/Find%20the%20Safest%20Path%20in%20a%20Grid/) | Medium |
 | 3069 | [Distribute Elements Into Two Arrays I](./Array/Distribute%20Elements%20Into%20Two%20Arrays%20I/) | Easy |
@@ -72,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
 | 1729 | [Find Followers Count](./Database/Find%20Followers%20Count/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 | 3220 | [Odd and Even Transactions](./Database/Odd%20and%20Even%20Transactions/) | Medium |
 
