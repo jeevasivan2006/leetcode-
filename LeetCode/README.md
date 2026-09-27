@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498782883" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498788628" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,7 +24,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
@@ -58,6 +60,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -65,14 +68,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
 | 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
 | 336 | [Palindrome Pairs](./Array/Palindrome%20Pairs/) | Hard |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 363 | [Max Sum of Rectangle No Larger Than K](./Array/Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K/) | Hard |
 | 403 | [Frog Jump](./Array/Frog%20Jump/) | Hard |
+| 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 436 | [Find Right Interval](./Array/Find%20Right%20Interval/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
@@ -83,6 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 719 | [Find K-th Smallest Pair Distance](./Array/Find%20K-th%20Smallest%20Pair%20Distance/) | Hard |
+| 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 740 | [Delete and Earn](./Array/Delete%20and%20Earn/) | Medium |
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
@@ -93,6 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 891 | [Sum of Subsequence Widths](./Array/Sum%20of%20Subsequence%20Widths/) | Hard |
+| 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 927 | [Three Equal Parts](./Array/Three%20Equal%20Parts/) | Hard |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 975 | [Odd Even Jump](./Array/Odd%20Even%20Jump/) | Hard |
@@ -103,6 +111,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1073 | [Adding Two Negabinary Numbers](./Array/Adding%20Two%20Negabinary%20Numbers/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1262 | [Greatest Sum Divisible by Three](./Array/Greatest%20Sum%20Divisible%20by%20Three/) | Medium |
+| 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1363 | [Largest Multiple of Three](./Array/Largest%20Multiple%20of%20Three/) | Hard |
 | 1390 | [Four Divisors](./Array/Four%20Divisors/) | Medium |
@@ -123,6 +132,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2812 | [Find the Safest Path in a Grid](./Array/Find%20the%20Safest%20Path%20in%20a%20Grid/) | Medium |
 | 2906 | [Construct Product Matrix](./Array/Construct%20Product%20Matrix/) | Medium |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
