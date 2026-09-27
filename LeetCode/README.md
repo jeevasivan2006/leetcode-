@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490553139" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490556906" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -113,6 +113,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Design
+<details>
+<summary>Click to expand Design problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 933 | [Number of Recent Calls](./Design/Number%20of%20Recent%20Calls/) | Easy |
+
+</details>
+
+
 ### Divide and Conquer
 <details>
 <summary>Click to expand Divide and Conquer problems</summary>
@@ -197,7 +208,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
+| 1209 | [Remove All Adjacent Duplicates in String II](./String/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/) | Medium |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
+| 3612 | [Process String with Special Operations I](./String/Process%20String%20with%20Special%20Operations%20I/) | Medium |
 | 3614 | [Process String with Special Operations II](./String/Process%20String%20with%20Special%20Operations%20II/) | Hard |
 
 </details>

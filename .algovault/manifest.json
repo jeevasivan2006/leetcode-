@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:13.130Z",
+  "lastUpdated": "2026-09-27T06:29:16.905Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2022,6 +2022,61 @@
               "runtime": "20 ms",
               "memory": "80.7 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "process-string-with-special-operations-i": {
+          "questionId": "3612",
+          "title": "Process String with Special Operations I",
+          "titleSlug": "process-string-with-special-operations-i",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490556905,
+              "runtime": "4 ms",
+              "memory": "55.1 MB",
+              "githubPath": "LeetCode/String/Process String with Special Operations I/"
+            }
+          }
+        },
+        "number-of-recent-calls": {
+          "questionId": "933",
+          "title": "Number of Recent Calls",
+          "titleSlug": "number-of-recent-calls",
+          "difficulty": "Easy",
+          "tags": [
+            "Design",
+            "Queue",
+            "Data Stream"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490556905,
+              "runtime": "21 ms",
+              "memory": "59.8 MB",
+              "githubPath": "LeetCode/Design/Number of Recent Calls/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string-ii": {
+          "questionId": "1209",
+          "title": "Remove All Adjacent Duplicates in String II",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490556905,
+              "runtime": "13 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates in String II/"
             }
           }
         }
