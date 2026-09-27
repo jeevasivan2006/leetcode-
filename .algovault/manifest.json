@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:22:58.512Z",
+  "lastUpdated": "2026-09-27T06:20:20.087Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -33,9 +33,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787199677376,
+              "syncedAt": 1790490020087,
               "runtime": "2 ms",
-              "memory": "46.7 MB",
+              "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
             }
           }
@@ -50,10 +50,148 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787199778512,
-              "runtime": "623 ms",
-              "memory": "0B",
+              "syncedAt": 1790490020087,
+              "runtime": "803 ms",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
+            }
+          }
+        },
+        "reverse-substrings-between-each-pair-of-parentheses": {
+          "questionId": "1190",
+          "title": "Reverse Substrings Between Each Pair of Parentheses",
+          "titleSlug": "reverse-substrings-between-each-pair-of-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490020087,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490020087,
+              "runtime": "2 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490020087,
+              "runtime": "329 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "find-customer-referee": {
+          "questionId": "584",
+          "title": "Find Customer Referee",
+          "titleSlug": "find-customer-referee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490020087,
+              "runtime": "586 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "managers-with-at-least-5-direct-reports": {
+          "questionId": "570",
+          "title": "Managers with at Least 5 Direct Reports",
+          "titleSlug": "managers-with-at-least-5-direct-reports",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490020087,
+              "runtime": "369 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490020087,
+              "runtime": "482 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "delete-duplicate-emails": {
+          "questionId": "196",
+          "title": "Delete Duplicate Emails",
+          "titleSlug": "delete-duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490020087,
+              "runtime": "929 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
+            }
+          }
+        },
+        "department-highest-salary": {
+          "questionId": "184",
+          "title": "Department Highest Salary",
+          "titleSlug": "department-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490020087,
+              "runtime": "1033 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Department Highest Salary/"
             }
           }
         }
