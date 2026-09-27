@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:16.905Z",
+  "lastUpdated": "2026-09-27T06:29:20.027Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2077,6 +2077,42 @@
               "runtime": "13 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates in String II/"
+            }
+          }
+        },
+        "perfect-number": {
+          "questionId": "507",
+          "title": "Perfect Number",
+          "titleSlug": "perfect-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490560027,
+              "runtime": "2113 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "daily-temperatures": {
+          "questionId": "739",
+          "title": "Daily Temperatures",
+          "titleSlug": "daily-temperatures",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490560027,
+              "runtime": "72 ms",
+              "memory": "107.6 MB",
+              "githubPath": "LeetCode/Array/Daily Temperatures/"
             }
           }
         }

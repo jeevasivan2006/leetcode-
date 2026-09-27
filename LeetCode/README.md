@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490556906" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490560029" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -44,6 +44,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
+| 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
@@ -186,6 +187,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
