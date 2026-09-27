@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498788628" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498792260" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -68,6 +68,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 321 | [Create Maximum Number](./Array/Create%20Maximum%20Number/) | Hard |
 | 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
@@ -120,6 +121,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](./Array/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/) | Easy |
 | 1499 | [Max Value of Equation](./Array/Max%20Value%20of%20Equation/) | Hard |
 | 1643 | [Kth Smallest Instructions](./Array/Kth%20Smallest%20Instructions/) | Hard |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |

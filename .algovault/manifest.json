@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:28.622Z",
+  "lastUpdated": "2026-09-27T08:46:32.259Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5442,6 +5442,46 @@
               "runtime": "3 ms",
               "memory": "50.4 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "average-salary-excluding-the-minimum-and-maximum-salary": {
+          "questionId": "1491",
+          "title": "Average Salary Excluding the Minimum and Maximum Salary",
+          "titleSlug": "average-salary-excluding-the-minimum-and-maximum-salary",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498792259,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498792259,
+              "runtime": "6 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
             }
           }
         }
