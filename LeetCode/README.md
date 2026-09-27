@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498757626" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498764033" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 15 | [3Sum](./Array/3Sum/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
@@ -54,6 +55,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
+| 179 | [Largest Number](./Array/Largest%20Number/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
@@ -68,6 +70,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 436 | [Find Right Interval](./Array/Find%20Right%20Interval/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
+| 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 539 | [Minimum Time Difference](./Array/Minimum%20Time%20Difference/) | Medium |
@@ -273,6 +276,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 | 148 | [Sort List](./Linked%20List/Sort%20List/) | Medium |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
+| 234 | [Palindrome Linked List](./Linked%20List/Palindrome%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 328 | [Odd Even Linked List](./Linked%20List/Odd%20Even%20Linked%20List/) | Medium |
 | 445 | [Add Two Numbers II](./Linked%20List/Add%20Two%20Numbers%20II/) | Medium |
@@ -289,15 +293,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
+| 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 371 | [Sum of Two Integers](./Math/Sum%20of%20Two%20Integers/) | Medium |
 | 400 | [Nth Digit](./Math/Nth%20Digit/) | Medium |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
@@ -340,6 +347,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
+| 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
@@ -388,6 +396,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 165 | [Compare Version Numbers](./Two%20Pointers/Compare%20Version%20Numbers/) | Medium |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
+| 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./Two%20Pointers/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) | Medium |
 
 </details>

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:57.625Z",
+  "lastUpdated": "2026-09-27T08:46:04.030Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4632,6 +4632,180 @@
               "runtime": "13 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "4 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "power-of-two": {
+          "questionId": "231",
+          "title": "Power of Two",
+          "titleSlug": "power-of-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "1 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Power of Two/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "31 ms",
+              "memory": "51.7 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "1 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "target-sum": {
+          "questionId": "494",
+          "title": "Target Sum",
+          "titleSlug": "target-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "5 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Target Sum/"
+            }
+          }
+        },
+        "reverse-only-letters": {
+          "questionId": "917",
+          "title": "Reverse Only Letters",
+          "titleSlug": "reverse-only-letters",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "largest-number": {
+          "questionId": "179",
+          "title": "Largest Number",
+          "titleSlug": "largest-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "5 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Largest Number/"
+            }
+          }
+        },
+        "palindrome-linked-list": {
+          "questionId": "234",
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498764030,
+              "runtime": "14 ms",
+              "memory": "58.9 MB",
+              "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
             }
           }
         }
