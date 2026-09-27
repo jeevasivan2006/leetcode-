@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490490882" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490495651" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,10 +16,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
+| 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
@@ -83,6 +87,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 
@@ -96,7 +101,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
+| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
 
 </details>
