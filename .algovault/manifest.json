@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:24:09.251Z",
+  "lastUpdated": "2026-09-27T06:24:11.428Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "2 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
@@ -33,7 +33,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "2 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
@@ -50,7 +50,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "803 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
@@ -69,7 +69,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
@@ -92,7 +92,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "2 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
@@ -109,7 +109,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "329 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -126,7 +126,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "586 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
@@ -143,7 +143,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "369 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -160,7 +160,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -177,7 +177,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "929 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
@@ -194,7 +194,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490227258,
+              "syncedAt": 1790490020087,
               "runtime": "1033 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -211,7 +211,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "383 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -228,7 +228,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "486 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
@@ -245,7 +245,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -262,9 +262,9 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490251428,
               "runtime": "784 ms",
-              "memory": "0.0B",
+              "memory": "0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
             }
           }
@@ -282,7 +282,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -302,7 +302,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "122 ms",
               "memory": "156.2 MB",
               "githubPath": "LeetCode/Array/Longest Substring of One Repeating Character/"
@@ -325,7 +325,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "2 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
@@ -344,7 +344,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026085,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -363,7 +363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
@@ -383,7 +383,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "3 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/String/Generate Parentheses/"
@@ -402,7 +402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Math/Minimum Number of Pushes to Type Word I/"
@@ -422,7 +422,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "224 ms",
               "memory": "200.1 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Lexicographically Smallest Valid Sequence/"
@@ -442,7 +442,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "1 ms",
               "memory": "69 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -462,7 +462,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "0 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -481,7 +481,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490234644,
+              "syncedAt": 1790490026086,
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
@@ -503,7 +503,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "6 ms",
               "memory": "85.5 MB",
               "githubPath": "LeetCode/Array/Stone Game III/"
@@ -523,7 +523,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "4 ms",
               "memory": "52.1 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
@@ -543,7 +543,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "395 ms",
               "memory": "49.2 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -563,7 +563,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "1203 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -582,7 +582,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "1460 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
@@ -601,7 +601,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "67 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -619,318 +619,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490240071,
+              "syncedAt": 1790490031049,
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
-            }
-          }
-        },
-        "stone-game": {
-          "questionId": "877",
-          "title": "Stone Game",
-          "titleSlug": "stone-game",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Math",
-            "Dynamic Programming",
-            "Minimax",
-            "Game Theory",
-            "Zero-Sum Game"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "0 ms",
-              "memory": "43 MB",
-              "githubPath": "LeetCode/Array/Stone Game/"
-            }
-          }
-        },
-        "sqrtx": {
-          "questionId": "69",
-          "title": "Sqrt(x)",
-          "titleSlug": "sqrtx",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Binary Search",
-            "Newton's Method"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "1 ms",
-              "memory": "42 MB",
-              "githubPath": "LeetCode/Math/Sqrt(x)/"
-            }
-          }
-        },
-        "length-of-last-word": {
-          "questionId": "58",
-          "title": "Length of Last Word",
-          "titleSlug": "length-of-last-word",
-          "difficulty": "Easy",
-          "tags": [
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "1 ms",
-              "memory": "43 MB",
-              "githubPath": "LeetCode/String/Length of Last Word/"
-            }
-          }
-        },
-        "insert-interval": {
-          "questionId": "57",
-          "title": "Insert Interval",
-          "titleSlug": "insert-interval",
-          "difficulty": "Medium",
-          "tags": [
-            "Array"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "1 ms",
-              "memory": "47.2 MB",
-              "githubPath": "LeetCode/Array/Insert Interval/"
-            }
-          }
-        },
-        "regular-expression-matching": {
-          "questionId": "10",
-          "title": "Regular Expression Matching",
-          "titleSlug": "regular-expression-matching",
-          "difficulty": "Hard",
-          "tags": [
-            "String",
-            "Dynamic Programming",
-            "Recursion"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "1 ms",
-              "memory": "43.6 MB",
-              "githubPath": "LeetCode/String/Regular Expression Matching/"
-            }
-          }
-        },
-        "combination-sum-ii": {
-          "questionId": "40",
-          "title": "Combination Sum II",
-          "titleSlug": "combination-sum-ii",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Backtracking"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "6 ms",
-              "memory": "45.5 MB",
-              "githubPath": "LeetCode/Array/Combination Sum II/"
-            }
-          }
-        },
-        "predict-the-winner": {
-          "questionId": "486",
-          "title": "Predict the Winner",
-          "titleSlug": "predict-the-winner",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Math",
-            "Dynamic Programming",
-            "Recursion",
-            "Minimax",
-            "Game Theory",
-            "Zero-Sum Game"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "0 ms",
-              "memory": "42.8 MB",
-              "githubPath": "LeetCode/Array/Predict the Winner/"
-            }
-          }
-        },
-        "remove-duplicate-letters": {
-          "questionId": "316",
-          "title": "Remove Duplicate Letters",
-          "titleSlug": "remove-duplicate-letters",
-          "difficulty": "Medium",
-          "tags": [
-            "String",
-            "Stack",
-            "Greedy",
-            "Monotonic Stack"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "14 ms",
-              "memory": "46.1 MB",
-              "githubPath": "LeetCode/String/Remove Duplicate Letters/"
-            }
-          }
-        },
-        "container-with-most-water": {
-          "questionId": "11",
-          "title": "Container With Most Water",
-          "titleSlug": "container-with-most-water",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Two Pointers",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490244648,
-              "runtime": "6 ms",
-              "memory": "77.2 MB",
-              "githubPath": "LeetCode/Array/Container With Most Water/"
-            }
-          }
-        },
-        "two-sum": {
-          "questionId": "1",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Hash Table"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "45 ms",
-              "memory": "47.4 MB",
-              "githubPath": "LeetCode/Array/Two Sum/"
-            }
-          }
-        },
-        "longest-consecutive-sequence": {
-          "questionId": "128",
-          "title": "Longest Consecutive Sequence",
-          "titleSlug": "longest-consecutive-sequence",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Union-Find"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "32 ms",
-              "memory": "95.7 MB",
-              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
-            }
-          }
-        },
-        "valid-sudoku": {
-          "questionId": "36",
-          "title": "Valid Sudoku",
-          "titleSlug": "valid-sudoku",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Matrix"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "3 ms",
-              "memory": "46.3 MB",
-              "githubPath": "LeetCode/Array/Valid Sudoku/"
-            }
-          }
-        },
-        "product-of-array-except-self": {
-          "questionId": "238",
-          "title": "Product of Array Except Self",
-          "titleSlug": "product-of-array-except-self",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Prefix Sum"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "2 ms",
-              "memory": "72.4 MB",
-              "githubPath": "LeetCode/Array/Product of Array Except Self/"
-            }
-          }
-        },
-        "smallest-palindromic-rearrangement-ii": {
-          "questionId": "3518",
-          "title": "Smallest Palindromic Rearrangement II",
-          "titleSlug": "smallest-palindromic-rearrangement-ii",
-          "difficulty": "Hard",
-          "tags": [
-            "Hash Table",
-            "Math",
-            "String",
-            "Combinatorics",
-            "Counting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "6 ms",
-              "memory": "47.2 MB",
-              "githubPath": "LeetCode/Hash Table/Smallest Palindromic Rearrangement II/"
-            }
-          }
-        },
-        "intersection-of-two-arrays": {
-          "questionId": "349",
-          "title": "Intersection of Two Arrays",
-          "titleSlug": "intersection-of-two-arrays",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Two Pointers",
-            "Binary Search",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "4 ms",
-              "memory": "44.8 MB",
-              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
-            }
-          }
-        },
-        "maximum-product-of-two-digits": {
-          "questionId": "3536",
-          "title": "Maximum Product of Two Digits",
-          "titleSlug": "maximum-product-of-two-digits",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1790490249251,
-              "runtime": "1 ms",
-              "memory": "42.9 MB",
-              "githubPath": "LeetCode/Math/Maximum Product of Two Digits/"
             }
           }
         }
