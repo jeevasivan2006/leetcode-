@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490536424" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490540760" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
@@ -49,6 +50,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
+| 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
 | 1833 | [Maximum Ice Cream Bars](./Array/Maximum%20Ice%20Cream%20Bars/) | Medium |
 | 1840 | [Maximum Building Height](./Array/Maximum%20Building%20Height/) | Hard |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |

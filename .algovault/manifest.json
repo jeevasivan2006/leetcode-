@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:28:56.424Z",
+  "lastUpdated": "2026-09-27T06:29:00.759Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1765,6 +1765,42 @@
               "runtime": "61 ms",
               "memory": "123.3 MB",
               "githubPath": "LeetCode/Array/Maximum Building Height/"
+            }
+          }
+        },
+        "find-the-highest-altitude": {
+          "questionId": "1732",
+          "title": "Find the Highest Altitude",
+          "titleSlug": "find-the-highest-altitude",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490540759,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Find the Highest Altitude/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490540759,
+              "runtime": "2 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
             }
           }
         }
