@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:00.759Z",
+  "lastUpdated": "2026-09-27T06:29:06.089Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1801,6 +1801,99 @@
               "runtime": "2 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490546089,
+              "runtime": "16 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490546089,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "intersection-of-two-linked-lists": {
+          "questionId": "160",
+          "title": "Intersection of Two Linked Lists",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490546089,
+              "runtime": "1 ms",
+              "memory": "52.8 MB",
+              "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490546089,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "delete-node-in-a-linked-list": {
+          "questionId": "237",
+          "title": "Delete Node in a Linked List",
+          "titleSlug": "delete-node-in-a-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490546089,
+              "runtime": "0 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
             }
           }
         }
