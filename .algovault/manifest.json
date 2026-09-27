@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:44:54.903Z",
+  "lastUpdated": "2026-09-27T08:45:02.011Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2778,7 +2778,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490592373,
+              "syncedAt": 1790498702011,
               "runtime": "103 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Longest Balanced Subarray I/"
@@ -2797,7 +2797,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "0 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
@@ -2816,7 +2816,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "36 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Minimum Deletions to Make String Balanced/"
@@ -2835,7 +2835,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Search a 2D Matrix/"
@@ -2855,7 +2855,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "25 ms",
               "memory": "85.9 MB",
               "githubPath": "LeetCode/Array/Minimum Removals to Balance Array/"
@@ -2874,7 +2874,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "0 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
@@ -2893,7 +2893,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Rotate Image/"
@@ -2911,7 +2911,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "0 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Richest Customer Wealth/"
@@ -2930,7 +2930,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "1 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Transpose Matrix/"
@@ -2949,7 +2949,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Count Negative Numbers in a Sorted Matrix/"
@@ -2967,7 +2967,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490598512,
+              "syncedAt": 1790498702011,
               "runtime": "3 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Two Pointers/String Compression/"
