@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:43:37.864Z",
+  "lastUpdated": "2026-09-27T08:43:43.076Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1292,7 +1292,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "700 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -1310,7 +1310,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
@@ -1333,7 +1333,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "22 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Number of Ways to Wear Different Hats to Each Other/"
@@ -1354,7 +1354,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "0 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Unique Paths III/"
@@ -1373,7 +1373,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "1 ms",
               "memory": "77.3 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -1392,7 +1392,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "51 ms",
               "memory": "93.1 MB",
               "githubPath": "LeetCode/Array/Maximum Erasure Value/"
@@ -1413,7 +1413,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490517960,
+              "syncedAt": 1790498623076,
               "runtime": "23 ms",
               "memory": "139.7 MB",
               "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
