@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:44:01.524Z",
+  "lastUpdated": "2026-09-27T08:44:04.692Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1779,7 +1779,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490540759,
+              "syncedAt": 1790498644692,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Find the Highest Altitude/"
@@ -1797,7 +1797,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490540759,
+              "syncedAt": 1790498644692,
               "runtime": "2 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
