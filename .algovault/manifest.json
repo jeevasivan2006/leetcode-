@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:32.002Z",
+  "lastUpdated": "2026-09-27T06:29:36.908Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2365,6 +2365,123 @@
               "runtime": "5 ms",
               "memory": "159.4 MB",
               "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
+            }
+          }
+        },
+        "binary-subarrays-with-sum": {
+          "questionId": "930",
+          "title": "Binary Subarrays With Sum",
+          "titleSlug": "binary-subarrays-with-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490576908,
+              "runtime": "22 ms",
+              "memory": "50.2 MB",
+              "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
+            }
+          }
+        },
+        "count-number-of-nice-subarrays": {
+          "questionId": "1248",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490576908,
+              "runtime": "43 ms",
+              "memory": "57.1 MB",
+              "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490576908,
+              "runtime": "25 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490576908,
+              "runtime": "2 ms",
+              "memory": "61.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "longest-mountain-in-array": {
+          "questionId": "845",
+          "title": "Longest Mountain in Array",
+          "titleSlug": "longest-mountain-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490576908,
+              "runtime": "2 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Longest Mountain in Array/"
+            }
+          }
+        },
+        "maximum-total-subarray-value-i": {
+          "questionId": "3689",
+          "title": "Maximum Total Subarray Value I",
+          "titleSlug": "maximum-total-subarray-value-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490576908,
+              "runtime": "1 ms",
+              "memory": "62 MB",
+              "githubPath": "LeetCode/Array/Maximum Total Subarray Value I/"
             }
           }
         }

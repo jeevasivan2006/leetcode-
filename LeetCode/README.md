@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490572003" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490576908" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -44,16 +44,21 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
+| 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
 | 769 | [Max Chunks To Make Sorted](./Array/Max%20Chunks%20To%20Make%20Sorted/) | Medium |
+| 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
+| 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 980 | [Unique Paths III](./Array/Unique%20Paths%20III/) | Hard |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
+| 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
@@ -70,6 +75,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3514 | [Number of Unique XOR Triplets II](./Array/Number%20of%20Unique%20XOR%20Triplets%20II/) | Medium |
 | 3559 | [Number of Ways to Assign Edge Weights II](./Array/Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) | Hard |
 | 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Hard |
+| 3689 | [Maximum Total Subarray Value I](./Array/Maximum%20Total%20Subarray%20Value%20I/) | Medium |
 | 3691 | [Maximum Total Subarray Value II](./Array/Maximum%20Total%20Subarray%20Value%20II/) | Hard |
 | 3737 | [Count Subarrays With Majority Element I](./Array/Count%20Subarrays%20With%20Majority%20Element%20I/) | Medium |
 | 3739 | [Count Subarrays With Majority Element II](./Array/Count%20Subarrays%20With%20Majority%20Element%20II/) | Hard |
