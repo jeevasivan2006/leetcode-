@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:20:26.086Z",
+  "lastUpdated": "2026-09-27T06:20:31.049Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -479,6 +479,144 @@
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
+            }
+          }
+        },
+        "stone-game-iii": {
+          "questionId": "1406",
+          "title": "Stone Game III",
+          "titleSlug": "stone-game-iii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "6 ms",
+              "memory": "85.5 MB",
+              "githubPath": "LeetCode/Array/Stone Game III/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "4 ms",
+              "memory": "52.1 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "subarray-product-less-than-k": {
+          "questionId": "713",
+          "title": "Subarray Product Less Than K",
+          "titleSlug": "subarray-product-less-than-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "395 ms",
+              "memory": "49.2 MB",
+              "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
+            }
+          }
+        },
+        "permutation-in-string": {
+          "questionId": "567",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "1203 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation in String/"
+            }
+          }
+        },
+        "find-all-anagrams-in-a-string": {
+          "questionId": "438",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "1460 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "67 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490031049,
+              "runtime": "2 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
         }

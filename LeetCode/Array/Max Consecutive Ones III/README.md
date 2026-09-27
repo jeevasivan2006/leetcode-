@@ -1,55 +1,39 @@
 # 1004. Max Consecutive Ones III
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/max-consecutive-ones-iii/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
 
 ## Problem Statement
 
-Given a binary array nums and an integer k, return the maximum number of consecutive 1's in the array if you can flip at most k 0's.
+<p>Given a binary array <code>nums</code> and an integer <code>k</code>, return <em>the maximum number of consecutive </em><code>1</code><em>&#39;s in the array if you can flip at most</em> <code>k</code> <code>0</code>&#39;s.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Input: nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
-Output: 6
-Explanation: [1,1,1,0,0,1,1,1,1,1,1]
+<pre>
+<strong>Input:</strong> nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> [1,1,1,0,0,<u><strong>1</strong>,1,1,1,1,<strong>1</strong></u>]
+Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], k = 3
+<strong>Output:</strong> 10
+<strong>Explanation:</strong> [0,0,<u>1,1,<strong>1</strong>,<strong>1</strong>,1,1,1,<strong>1</strong>,1,1</u>,0,0,0,1,1,1,1]
 Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
+</pre>
 
-Example 2:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], k = 3
-Output: 10
-Explanation: [0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1]
-Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>nums[i]</code> is either 0 or 1.</li>
+	<li><code>0 &lt;= k &lt;= nums.length</code></li>
+</ul>
 
-
- 
-Constraints:
-
-
-	1 <= nums.length <= 105
-	nums[i] is either 0 or 1.
-	0 <= k <= nums.length
-
-## Examples
-
-```
-Input: nums = [1,1,1,0,0,0,1,1,1,1,0], k = 2
-Output: 6
-Explanation: [1,1,1,0,0,1,1,1,1,1,1]
-Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
-
-Input: nums = [0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1], k = 3
-Output: 10
-Explanation: [0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1]
-Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
-```
-
-## Constraints
-
-- 1 <= nums.length <= 105
-- nums[i] is either 0 or 1.
-- 0 <= k <= nums.length
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
