@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:40.090Z",
+  "lastUpdated": "2026-09-27T06:29:43.927Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2500,6 +2500,82 @@
               "runtime": "3 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "removing-stars-from-a-string": {
+          "questionId": "2390",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490583927,
+              "runtime": "84 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490583927,
+              "runtime": "24 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490583927,
+              "runtime": "3 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "remove-nodes-from-linked-list": {
+          "questionId": "2487",
+          "title": "Remove Nodes From Linked List",
+          "titleSlug": "remove-nodes-from-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Stack",
+            "Recursion",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490583927,
+              "runtime": "6 ms",
+              "memory": "130.3 MB",
+              "githubPath": "LeetCode/Linked List/Remove Nodes From Linked List/"
             }
           }
         }
