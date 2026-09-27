@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:44:04.692Z",
+  "lastUpdated": "2026-09-27T08:44:10.025Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1815,7 +1815,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490546089,
+              "syncedAt": 1790498650025,
               "runtime": "16 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
@@ -1837,7 +1837,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490546089,
+              "syncedAt": 1790498650025,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -1856,7 +1856,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490546089,
+              "syncedAt": 1790498650025,
               "runtime": "1 ms",
               "memory": "52.8 MB",
               "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
@@ -1873,7 +1873,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490546089,
+              "syncedAt": 1790498650025,
               "runtime": "0 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
@@ -1890,7 +1890,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790490546089,
+              "syncedAt": 1790498650025,
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
