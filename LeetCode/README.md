@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498745938" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498751663" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -52,6 +52,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 139 | [Word Break](./Array/Word%20Break/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
@@ -211,6 +212,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 397 | [Integer Replacement](./Dynamic%20Programming/Integer%20Replacement/) | Medium |
+| 552 | [Student Attendance Record II](./Dynamic%20Programming/Student%20Attendance%20Record%20II/) | Hard |
 | 629 | [K Inverse Pairs Array](./Dynamic%20Programming/K%20Inverse%20Pairs%20Array/) | Hard |
 | 834 | [Sum of Distances in Tree](./Dynamic%20Programming/Sum%20of%20Distances%20in%20Tree/) | Hard |
 | 3490 | [Count Beautiful Numbers](./Dynamic%20Programming/Count%20Beautiful%20Numbers/) | Hard |
@@ -226,6 +228,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 30 | [Substring with Concatenation of All Words](./Hash%20Table/Substring%20with%20Concatenation%20of%20All%20Words/) | Hard |
 | 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
@@ -280,10 +283,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
+| 371 | [Sum of Two Integers](./Math/Sum%20of%20Two%20Integers/) | Medium |
+| 400 | [Nth Digit](./Math/Nth%20Digit/) | Medium |
 | 479 | [Largest Palindrome Product](./Math/Largest%20Palindrome%20Product/) | Hard |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
 | 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
+| 829 | [Consecutive Numbers Sum](./Math/Consecutive%20Numbers%20Sum/) | Hard |
 | 878 | [Nth Magical Number](./Math/Nth%20Magical%20Number/) | Hard |
 | 906 | [Super Palindromes](./Math/Super%20Palindromes/) | Hard |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
@@ -321,6 +327,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
 | 132 | [Palindrome Partitioning II](./String/Palindrome%20Partitioning%20II/) | Hard |
 | 214 | [Shortest Palindrome](./String/Shortest%20Palindrome/) | Hard |
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |

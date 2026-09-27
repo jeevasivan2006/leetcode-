@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:45.937Z",
+  "lastUpdated": "2026-09-27T08:45:51.662Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4334,6 +4334,135 @@
               "runtime": "4 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "3 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "5 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "student-attendance-record-ii": {
+          "questionId": "552",
+          "title": "Student Attendance Record II",
+          "titleSlug": "student-attendance-record-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "349 ms",
+              "memory": "87.8 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Student Attendance Record II/"
+            }
+          }
+        },
+        "consecutive-numbers-sum": {
+          "questionId": "829",
+          "title": "Consecutive Numbers Sum",
+          "titleSlug": "consecutive-numbers-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "4 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Consecutive Numbers Sum/"
+            }
+          }
+        },
+        "maximum-gap": {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Bucket Sort",
+            "Radix Sort",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "42 ms",
+              "memory": "60.7 MB",
+              "githubPath": "LeetCode/Array/Maximum Gap/"
+            }
+          }
+        },
+        "sum-of-two-integers": {
+          "questionId": "371",
+          "title": "Sum of Two Integers",
+          "titleSlug": "sum-of-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Sum of Two Integers/"
+            }
+          }
+        },
+        "nth-digit": {
+          "questionId": "400",
+          "title": "Nth Digit",
+          "titleSlug": "nth-digit",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498751662,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Nth Digit/"
             }
           }
         }
