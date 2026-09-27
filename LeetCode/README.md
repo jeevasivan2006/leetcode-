@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490598514" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790491024050" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -128,6 +128,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 | 3220 | [Odd and Even Transactions](./Database/Odd%20and%20Even%20Transactions/) | Medium |
+| 3570 | [Find Books with No Available Copies](./Database/Find%20Books%20with%20No%20Available%20Copies/) | Easy |
 
 </details>
 
