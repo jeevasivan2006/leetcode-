@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:24:11.428Z",
+  "lastUpdated": "2026-09-27T06:24:29.152Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -262,8 +262,8 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790490251428,
-              "runtime": "784 ms",
+              "syncedAt": 1790490269152,
+              "runtime": "481 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
             }
