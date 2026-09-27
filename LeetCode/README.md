@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498775787" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498782883" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -255,10 +255,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
+| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 352 | [Data Stream as Disjoint Intervals](./Hash%20Table/Data%20Stream%20as%20Disjoint%20Intervals/) | Hard |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
+| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
+| 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 770 | [Basic Calculator IV](./Hash%20Table/Basic%20Calculator%20IV/) | Hard |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
@@ -304,6 +307,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
@@ -372,6 +376,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 516 | [Longest Palindromic Subsequence](./String/Longest%20Palindromic%20Subsequence/) | Medium |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
+| 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
 | 1209 | [Remove All Adjacent Duplicates in String II](./String/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/) | Medium |
@@ -409,7 +415,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 165 | [Compare Version Numbers](./Two%20Pointers/Compare%20Version%20Numbers/) | Medium |
+| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
+| 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](./Two%20Pointers/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) | Medium |

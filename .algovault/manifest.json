@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:15.782Z",
+  "lastUpdated": "2026-09-27T08:46:22.879Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5090,6 +5090,173 @@
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
+            }
+          }
+        },
+        "reverse-vowels-of-a-string": {
+          "questionId": "345",
+          "title": "Reverse Vowels of a String",
+          "titleSlug": "reverse-vowels-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "3 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "1 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "5 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "0 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782878,
+              "runtime": "7 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782879,
+              "runtime": "5 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498782879,
+              "runtime": "3 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
             }
           }
         }
