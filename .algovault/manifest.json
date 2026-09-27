@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:39.540Z",
+  "lastUpdated": "2026-09-27T08:46:44.103Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5569,6 +5569,80 @@
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498804102,
+              "runtime": "5 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498804102,
+              "runtime": "1 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498804103,
+              "runtime": "0 ms",
+              "memory": "40.6 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498804103,
+              "runtime": "0 ms",
+              "memory": "40.6 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
             }
           }
         }

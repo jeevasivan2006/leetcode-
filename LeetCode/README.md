@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498799545" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498804104" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -268,6 +268,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
+| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 352 | [Data Stream as Disjoint Intervals](./Hash%20Table/Data%20Stream%20as%20Disjoint%20Intervals/) | Hard |
@@ -322,6 +323,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
@@ -332,6 +334,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 273 | [Integer to English Words](./Math/Integer%20to%20English%20Words/) | Hard |
 | 282 | [Expression Add Operators](./Math/Expression%20Add%20Operators/) | Hard |
@@ -347,6 +350,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 878 | [Nth Magical Number](./Math/Nth%20Magical%20Number/) | Hard |
 | 906 | [Super Palindromes](./Math/Super%20Palindromes/) | Hard |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
+| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1344 | [Angle Between Hands of a Clock](./Math/Angle%20Between%20Hands%20of%20a%20Clock/) | Medium |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 2719 | [Count of Integers](./Math/Count%20of%20Integers/) | Hard |
