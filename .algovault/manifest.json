@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:45:19.662Z",
+  "lastUpdated": "2026-09-27T08:45:28.115Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3528,6 +3528,319 @@
               "runtime": "7 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Shortest Palindrome/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728114,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728114,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "find-first-and-last-position-of-element-in-sorted-array": {
+          "questionId": "34",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728114,
+              "runtime": "0 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "7 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "palindrome-partitioning-ii": {
+          "questionId": "132",
+          "title": "Palindrome Partitioning II",
+          "titleSlug": "palindrome-partitioning-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "32 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning II/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "0 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack",
+            "Range Minimum/Maximum Query"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "73 ms",
+              "memory": "78.4 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "substring-with-concatenation-of-all-words": {
+          "questionId": "30",
+          "title": "Substring with Concatenation of All Words",
+          "titleSlug": "substring-with-concatenation-of-all-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "1403 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
+            }
+          }
+        },
+        "count-palindromic-subsequences": {
+          "questionId": "2484",
+          "title": "Count Palindromic Subsequences",
+          "titleSlug": "count-palindromic-subsequences",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "36 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/String/Count Palindromic Subsequences/"
+            }
+          }
+        },
+        "max-value-of-equation": {
+          "questionId": "1499",
+          "title": "Max Value of Equation",
+          "titleSlug": "max-value-of-equation",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "26 ms",
+              "memory": "114.9 MB",
+              "githubPath": "LeetCode/Array/Max Value of Equation/"
+            }
+          }
+        },
+        "three-equal-parts": {
+          "questionId": "927",
+          "title": "Three Equal Parts",
+          "titleSlug": "three-equal-parts",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "7 ms",
+              "memory": "51.3 MB",
+              "githubPath": "LeetCode/Array/Three Equal Parts/"
+            }
+          }
+        },
+        "count-integers-in-intervals": {
+          "questionId": "2276",
+          "title": "Count Integers in Intervals",
+          "titleSlug": "count-integers-in-intervals",
+          "difficulty": "Hard",
+          "tags": [
+            "Design",
+            "Segment Tree",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "153 ms",
+              "memory": "122.8 MB",
+              "githubPath": "LeetCode/Design/Count Integers in Intervals/"
+            }
+          }
+        },
+        "largest-multiple-of-three": {
+          "questionId": "1363",
+          "title": "Largest Multiple of Three",
+          "titleSlug": "largest-multiple-of-three",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "5 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Largest Multiple of Three/"
+            }
+          }
+        },
+        "super-palindromes": {
+          "questionId": "906",
+          "title": "Super Palindromes",
+          "titleSlug": "super-palindromes",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "2 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Super Palindromes/"
+            }
+          }
+        },
+        "odd-even-jump": {
+          "questionId": "975",
+          "title": "Odd Even Jump",
+          "titleSlug": "odd-even-jump",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Sorting",
+            "Monotonic Stack",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "71 ms",
+              "memory": "50.9 MB",
+              "githubPath": "LeetCode/Array/Odd Even Jump/"
+            }
+          }
+        },
+        "max-sum-of-rectangle-no-larger-than-k": {
+          "questionId": "363",
+          "title": "Max Sum of Rectangle No Larger Than K",
+          "titleSlug": "max-sum-of-rectangle-no-larger-than-k",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix",
+            "Prefix Sum",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498728115,
+              "runtime": "110 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Max Sum of Rectangle No Larger Than K/"
             }
           }
         }
