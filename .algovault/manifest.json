@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:26:28.136Z",
+  "lastUpdated": "2026-09-27T06:26:38.724Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -77,12 +77,6 @@
             "101112131415161718986754321                pair[i] = j;                pair[j] = i;            }        }        stringbuilder res = new stringbuilder();        int i = 0, dir = 1;        while (i >= 0 && i < n) {            if (s.charat(i) == '(' || s.charat(i) == ')') {                i = pair[i];                int j = st.pop();            else if (s.charat(i) == ')') {        for (int i = 0; i < n; ++i) {            if (s.charat(i) == '(') st.push(i);        deque<integer> st = new arraydeque<>();        int[] pair = new int[n];        int n = s.length();    public string reverseparentheses(string s) { class solution {": {
               "syncedAt": 1790490087992,
               "runtime": "0 ms",
-              "memory": "N/A",
-              "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
-            },
-            "891011121314151617181920212223242526            else if (s.charat(i) == ')') {                int j = st.pop();                pair[i] = j;                pair[j] = i;            }        }        stringbuilder res = new stringbuilder();        int i = 0, dir = 1;        while (i >= 0 && i < n) {            if (s.charat(i) == '(' || s.charat(i) == ')') {                i = pair[i];                dir = -dir;            } else {                res.append(s.charat(i));            }            i += dir;        }        return res.tostring();    }": {
-              "syncedAt": 1790490388136,
-              "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
             }
@@ -629,6 +623,23 @@
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "odd-and-even-transactions": {
+          "questionId": "3220",
+          "title": "Odd and Even Transactions",
+          "titleSlug": "odd-and-even-transactions",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490398724,
+              "runtime": "274 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Odd and Even Transactions/"
             }
           }
         }

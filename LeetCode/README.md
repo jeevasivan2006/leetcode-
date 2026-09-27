@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490388152" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490398725" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -46,6 +46,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 3220 | [Odd and Even Transactions](./Database/Odd%20and%20Even%20Transactions/) | Medium |
 
 </details>
 
