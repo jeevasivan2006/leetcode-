@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:46:32.259Z",
+  "lastUpdated": "2026-09-27T08:46:35.472Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5482,6 +5482,41 @@
               "runtime": "6 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498795472,
+              "runtime": "3 ms",
+              "memory": "59 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790498795472,
+              "runtime": "0 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
             }
           }
         }

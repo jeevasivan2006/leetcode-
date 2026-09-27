@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498792260" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790498795473" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -88,6 +88,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 713 | [Subarray Product Less Than K](./Array/Subarray%20Product%20Less%20Than%20K/) | Medium |
 | 719 | [Find K-th Smallest Pair Distance](./Array/Find%20K-th%20Smallest%20Pair%20Distance/) | Hard |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
@@ -101,6 +102,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 891 | [Sum of Subsequence Widths](./Array/Sum%20of%20Subsequence%20Widths/) | Hard |
+| 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 905 | [Sort Array By Parity](./Array/Sort%20Array%20By%20Parity/) | Easy |
 | 927 | [Three Equal Parts](./Array/Three%20Equal%20Parts/) | Hard |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
