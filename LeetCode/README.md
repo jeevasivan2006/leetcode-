@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490588247" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790490592374" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -43,6 +43,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 486 | [Predict the Winner](./Array/Predict%20the%20Winner/) | Medium |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
@@ -62,6 +63,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1406 | [Stone Game III](./Array/Stone%20Game%20III/) | Hard |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
+| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
+| 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1723 | [Find Minimum Time to Finish All Jobs](./Array/Find%20Minimum%20Time%20to%20Finish%20All%20Jobs/) | Hard |
 | 1732 | [Find the Highest Altitude](./Array/Find%20the%20Highest%20Altitude/) | Easy |
@@ -81,6 +84,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3620 | [Network Recovery Pathways](./Array/Network%20Recovery%20Pathways/) | Hard |
 | 3689 | [Maximum Total Subarray Value I](./Array/Maximum%20Total%20Subarray%20Value%20I/) | Medium |
 | 3691 | [Maximum Total Subarray Value II](./Array/Maximum%20Total%20Subarray%20Value%20II/) | Hard |
+| 3719 | [Longest Balanced Subarray I](./Array/Longest%20Balanced%20Subarray%20I/) | Medium |
 | 3737 | [Count Subarrays With Majority Element I](./Array/Count%20Subarrays%20With%20Majority%20Element%20I/) | Medium |
 | 3739 | [Count Subarrays With Majority Element II](./Array/Count%20Subarrays%20With%20Majority%20Element%20II/) | Hard |
 | 3838 | [Weighted Word Mapping](./Array/Weighted%20Word%20Mapping/) | Easy |
@@ -151,6 +155,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
+| 1382 | [Balance a Binary Search Tree](./Divide%20and%20Conquer/Balance%20a%20Binary%20Search%20Tree/) | Medium |
 
 </details>
 
@@ -178,6 +183,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 438 | [Find All Anagrams in a String](./Hash%20Table/Find%20All%20Anagrams%20in%20a%20String/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 3518 | [Smallest Palindromic Rearrangement II](./Hash%20Table/Smallest%20Palindromic%20Rearrangement%20II/) | Hard |
+| 3714 | [Longest Balanced Substring II](./Hash%20Table/Longest%20Balanced%20Substring%20II/) | Medium |
 
 </details>
 

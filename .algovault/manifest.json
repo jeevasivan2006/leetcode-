@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:29:48.247Z",
+  "lastUpdated": "2026-09-27T06:29:52.373Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2667,6 +2667,121 @@
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "longest-balanced-substring-ii": {
+          "questionId": "3714",
+          "title": "Longest Balanced Substring II",
+          "titleSlug": "longest-balanced-substring-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490592372,
+              "runtime": "160 ms",
+              "memory": "123 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Balanced Substring II/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490592373,
+              "runtime": "6 ms",
+              "memory": "67.3 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490592373,
+              "runtime": "3 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490592373,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "balance-a-binary-search-tree": {
+          "questionId": "1382",
+          "title": "Balance a Binary Search Tree",
+          "titleSlug": "balance-a-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Divide and Conquer",
+            "Greedy",
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490592373,
+              "runtime": "2 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Balance a Binary Search Tree/"
+            }
+          }
+        },
+        "longest-balanced-subarray-i": {
+          "questionId": "3719",
+          "title": "Longest Balanced Subarray I",
+          "titleSlug": "longest-balanced-subarray-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Segment Tree",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490592373,
+              "runtime": "103 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Longest Balanced Subarray I/"
             }
           }
         }
