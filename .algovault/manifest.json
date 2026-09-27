@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:24:00.071Z",
+  "lastUpdated": "2026-09-27T06:24:04.648Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -623,6 +623,180 @@
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "stone-game": {
+          "questionId": "877",
+          "title": "Stone Game",
+          "titleSlug": "stone-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search",
+            "Newton's Method"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "insert-interval": {
+          "questionId": "57",
+          "title": "Insert Interval",
+          "titleSlug": "insert-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
+            }
+          }
+        },
+        "combination-sum-ii": {
+          "questionId": "40",
+          "title": "Combination Sum II",
+          "titleSlug": "combination-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "6 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Combination Sum II/"
+            }
+          }
+        },
+        "predict-the-winner": {
+          "questionId": "486",
+          "title": "Predict the Winner",
+          "titleSlug": "predict-the-winner",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Minimax",
+            "Game Theory",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Predict the Winner/"
+            }
+          }
+        },
+        "remove-duplicate-letters": {
+          "questionId": "316",
+          "title": "Remove Duplicate Letters",
+          "titleSlug": "remove-duplicate-letters",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "14 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/String/Remove Duplicate Letters/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490244648,
+              "runtime": "6 ms",
+              "memory": "77.2 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
             }
           }
         }
