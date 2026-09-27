@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T06:20:20.087Z",
+  "lastUpdated": "2026-09-27T06:20:26.086Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787028742822,
+              "syncedAt": 1790490026085,
               "runtime": "2 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
@@ -192,6 +192,293 @@
               "runtime": "1033 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490026085,
+              "runtime": "383 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "nth-highest-salary": {
+          "questionId": "177",
+          "title": "Nth Highest Salary",
+          "titleSlug": "nth-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490026085,
+              "runtime": "486 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Nth Highest Salary/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490026085,
+              "runtime": "410 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790490026085,
+              "runtime": "784 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "same-tree": {
+          "questionId": "100",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026085,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
+            }
+          }
+        },
+        "longest-substring-of-one-repeating-character": {
+          "questionId": "2213",
+          "title": "Longest Substring of One Repeating Character",
+          "titleSlug": "longest-substring-of-one-repeating-character",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Segment Tree",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026085,
+              "runtime": "122 ms",
+              "memory": "156.2 MB",
+              "githubPath": "LeetCode/Array/Longest Substring of One Repeating Character/"
+            }
+          }
+        },
+        "stone-game-iv": {
+          "questionId": "1510",
+          "title": "Stone Game IV",
+          "titleSlug": "stone-game-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Sprague–Grundy Theorem",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026085,
+              "runtime": "2 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Stone Game IV/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026085,
+              "runtime": "2 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "3 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
+            }
+          }
+        },
+        "minimum-number-of-pushes-to-type-word-i": {
+          "questionId": "3014",
+          "title": "Minimum Number of Pushes to Type Word I",
+          "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Math/Minimum Number of Pushes to Type Word I/"
+            }
+          }
+        },
+        "find-the-lexicographically-smallest-valid-sequence": {
+          "questionId": "3302",
+          "title": "Find the Lexicographically Smallest Valid Sequence",
+          "titleSlug": "find-the-lexicographically-smallest-valid-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "224 ms",
+              "memory": "200.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Lexicographically Smallest Valid Sequence/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "1 ms",
+              "memory": "69 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "remove-methods-from-project": {
+          "questionId": "3310",
+          "title": "Remove Methods From Project",
+          "titleSlug": "remove-methods-from-project",
+          "difficulty": "Medium",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790490026086,
+              "runtime": "46 ms",
+              "memory": "280.2 MB",
+              "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
             }
           }
         }
