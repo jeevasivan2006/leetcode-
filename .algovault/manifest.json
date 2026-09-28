@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:02:12.235Z",
+  "lastUpdated": "2026-09-28T04:02:22.816Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -33,7 +33,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498582705,
+              "syncedAt": 1790568142816,
               "runtime": "2 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
@@ -50,7 +50,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142816,
               "runtime": "803 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
@@ -69,7 +69,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Reverse Substrings Between Each Pair of Parentheses/"
@@ -92,7 +92,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "2 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
@@ -109,7 +109,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "329 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Big Countries/"
@@ -126,7 +126,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "586 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
@@ -143,7 +143,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "369 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -160,7 +160,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -177,7 +177,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "929 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
@@ -194,7 +194,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568142815,
               "runtime": "1033 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -262,7 +262,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132876,
               "runtime": "481 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -636,7 +636,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "274 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Odd and Even Transactions/"
@@ -3008,7 +3008,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "566 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Books with No Available Copies/"
@@ -5690,7 +5690,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "496 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Reformat Department Table/"
@@ -5707,7 +5707,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132233,
+              "syncedAt": 1790568132873,
               "runtime": "487 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Project Employees I/"
@@ -5724,7 +5724,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132873,
               "runtime": "1321 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
@@ -5741,7 +5741,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132873,
               "runtime": "380 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
@@ -5758,7 +5758,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "258 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Swap Sex of Employees/"
@@ -5775,7 +5775,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "1231 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Sales Person/"
@@ -5792,7 +5792,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "588 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Biggest Single Number/"
@@ -5809,7 +5809,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568132235,
+              "syncedAt": 1790568132874,
               "runtime": "818 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/List the Products Ordered in a Period/"
