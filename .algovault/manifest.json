@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:05:07.716Z",
+  "lastUpdated": "2026-09-28T04:05:13.026Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2515,7 +2515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498686376,
+              "syncedAt": 1790568313026,
               "runtime": "84 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Removing Stars From a String/"
@@ -2533,7 +2533,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498686376,
+              "syncedAt": 1790568313026,
               "runtime": "24 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
@@ -2552,7 +2552,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498686376,
+              "syncedAt": 1790568313026,
               "runtime": "3 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
@@ -2572,7 +2572,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498686376,
+              "syncedAt": 1790568313026,
               "runtime": "6 ms",
               "memory": "130.3 MB",
               "githubPath": "LeetCode/Linked List/Remove Nodes From Linked List/"
@@ -2592,7 +2592,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498690681,
+              "syncedAt": 1790568313026,
               "runtime": "1 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Matrix Similarity After Cyclic Shifts/"
