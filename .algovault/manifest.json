@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:05:55.017Z",
+  "lastUpdated": "2026-09-28T04:06:07.565Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3586,7 +3586,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728114,
+              "syncedAt": 1790568367549,
               "runtime": "0 ms",
               "memory": "48.2 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -3606,7 +3606,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367550,
               "runtime": "7 ms",
               "memory": "49.8 MB",
               "githubPath": "LeetCode/Array/Group Anagrams/"
@@ -3624,7 +3624,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367550,
               "runtime": "32 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/String/Palindrome Partitioning II/"
@@ -3645,7 +3645,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367550,
               "runtime": "0 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
@@ -3665,7 +3665,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "73 ms",
               "memory": "78.4 MB",
               "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
@@ -3684,7 +3684,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "1403 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
@@ -3702,7 +3702,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "36 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Count Palindromic Subsequences/"
@@ -3723,7 +3723,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "26 ms",
               "memory": "114.9 MB",
               "githubPath": "LeetCode/Array/Max Value of Equation/"
@@ -3741,7 +3741,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "7 ms",
               "memory": "51.3 MB",
               "githubPath": "LeetCode/Array/Three Equal Parts/"
@@ -3760,7 +3760,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "153 ms",
               "memory": "122.8 MB",
               "githubPath": "LeetCode/Design/Count Integers in Intervals/"
@@ -3781,7 +3781,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "5 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Largest Multiple of Three/"
@@ -3800,7 +3800,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367551,
               "runtime": "2 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Super Palindromes/"
@@ -3822,7 +3822,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367564,
               "runtime": "71 ms",
               "memory": "50.9 MB",
               "githubPath": "LeetCode/Array/Odd Even Jump/"
@@ -3843,7 +3843,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498728115,
+              "syncedAt": 1790568367564,
               "runtime": "110 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Max Sum of Rectangle No Larger Than K/"
@@ -3861,7 +3861,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498736171,
+              "syncedAt": 1790568367564,
               "runtime": "18 ms",
               "memory": "184.3 MB",
               "githubPath": "LeetCode/Array/Frog Jump/"
@@ -3878,7 +3878,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498736171,
+              "syncedAt": 1790568367564,
               "runtime": "2220 ms",
               "memory": "158.8 MB",
               "githubPath": "LeetCode/Dynamic Programming/K Inverse Pairs Array/"
@@ -3897,7 +3897,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498736172,
+              "syncedAt": 1790568367565,
               "runtime": "127 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Math/Expression Add Operators/"
