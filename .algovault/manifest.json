@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:03:38.686Z",
+  "lastUpdated": "2026-09-28T04:03:44.090Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1435,7 +1435,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498627582,
+              "syncedAt": 1790568224089,
               "runtime": "2 ms",
               "memory": "87.9 MB",
               "githubPath": "LeetCode/Array/Count Subarrays With Majority Element II/"
@@ -1453,7 +1453,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498627582,
+              "syncedAt": 1790568224090,
               "runtime": "11 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
@@ -1471,7 +1471,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498627582,
+              "syncedAt": 1790568224090,
               "runtime": "6 ms",
               "memory": "69.8 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -1494,7 +1494,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498627582,
+              "syncedAt": 1790568224090,
               "runtime": "33 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Count Subarrays With Majority Element I/"
@@ -1513,7 +1513,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498627582,
+              "syncedAt": 1790568224090,
               "runtime": "3 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
