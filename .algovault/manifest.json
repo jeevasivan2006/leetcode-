@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:07:34.125Z",
+  "lastUpdated": "2026-09-28T04:07:39.809Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5531,7 +5531,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498799540,
+              "syncedAt": 1790568459808,
               "runtime": "8 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -5548,7 +5548,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498799540,
+              "syncedAt": 1790568459808,
               "runtime": "1 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
@@ -5565,7 +5565,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498799540,
+              "syncedAt": 1790568459809,
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
@@ -5582,7 +5582,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498804102,
+              "syncedAt": 1790568459809,
               "runtime": "5 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
@@ -5601,7 +5601,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498804102,
+              "syncedAt": 1790568459809,
               "runtime": "1 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
