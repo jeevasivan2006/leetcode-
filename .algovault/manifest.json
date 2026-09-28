@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:04:39.178Z",
+  "lastUpdated": "2026-09-28T04:04:44.708Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2128,7 +2128,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498665632,
+              "syncedAt": 1790568284708,
               "runtime": "16 ms",
               "memory": "49 MB",
               "githubPath": "LeetCode/Array/Next Greater Element II/"
@@ -2146,7 +2146,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498665632,
+              "syncedAt": 1790568284708,
               "runtime": "34 ms",
               "memory": "99.9 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
@@ -2165,7 +2165,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498665633,
+              "syncedAt": 1790568284708,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Weighted Word Mapping/"
