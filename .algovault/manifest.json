@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:05:18.807Z",
+  "lastUpdated": "2026-09-28T04:05:25.670Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2700,7 +2700,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498694903,
+              "syncedAt": 1790568325669,
               "runtime": "6 ms",
               "memory": "67.3 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
@@ -2717,7 +2717,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498694903,
+              "syncedAt": 1790568325669,
               "runtime": "3 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
@@ -2735,7 +2735,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498694903,
+              "syncedAt": 1790568325669,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
@@ -2757,7 +2757,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498694903,
+              "syncedAt": 1790568325670,
               "runtime": "2 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Divide and Conquer/Balance a Binary Search Tree/"
@@ -2778,7 +2778,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498702011,
+              "syncedAt": 1790568325670,
               "runtime": "103 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Longest Balanced Subarray I/"
@@ -2797,7 +2797,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498702011,
+              "syncedAt": 1790568325670,
               "runtime": "0 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Tree/Balanced Binary Tree/"
@@ -2816,7 +2816,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498702011,
+              "syncedAt": 1790568325670,
               "runtime": "36 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/String/Minimum Deletions to Make String Balanced/"
