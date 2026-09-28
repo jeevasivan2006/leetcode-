@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:03:49.923Z",
+  "lastUpdated": "2026-09-28T04:03:56.992Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1607,7 +1607,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236991,
               "runtime": "7 ms",
               "memory": "52.2 MB",
               "githubPath": "LeetCode/Linked List/Merge In Between Linked Lists/"
@@ -1626,7 +1626,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236991,
               "runtime": "1 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
@@ -1649,7 +1649,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236991,
               "runtime": "127 ms",
               "memory": "109.6 MB",
               "githubPath": "LeetCode/Array/Shortest Subarray with Sum at Least K/"
@@ -1667,7 +1667,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236992,
               "runtime": "289 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Math/Number of ZigZag Arrays II/"
@@ -1685,7 +1685,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236992,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
@@ -1703,7 +1703,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236992,
               "runtime": "339 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Dynamic Programming/Number of ZigZag Arrays I/"
@@ -1722,7 +1722,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498637806,
+              "syncedAt": 1790568236992,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
