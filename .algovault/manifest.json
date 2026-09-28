@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:06:17.153Z",
+  "lastUpdated": "2026-09-28T04:06:25.543Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4166,7 +4166,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385541,
               "runtime": "0 ms",
               "memory": "48.3 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -4185,7 +4185,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "11 ms",
               "memory": "49.8 MB",
               "githubPath": "LeetCode/Array/Find Right Interval/"
@@ -4204,7 +4204,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "4 ms",
               "memory": "51.7 MB",
               "githubPath": "LeetCode/Math/Gray Code/"
@@ -4222,7 +4222,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
@@ -4241,7 +4241,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Number of Digit One/"
@@ -4260,7 +4260,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "11 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Delete and Earn/"
@@ -4278,7 +4278,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Linked List/Reverse Nodes in k-Group/"
@@ -4297,7 +4297,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385542,
               "runtime": "17 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -4315,7 +4315,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385543,
               "runtime": "1 ms",
               "memory": "56.9 MB",
               "githubPath": "LeetCode/Array/First Missing Positive/"
@@ -4336,7 +4336,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498745937,
+              "syncedAt": 1790568385543,
               "runtime": "4 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
@@ -4355,7 +4355,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568385543,
               "runtime": "3 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
