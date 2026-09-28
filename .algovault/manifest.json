@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:06:34.910Z",
+  "lastUpdated": "2026-09-28T04:06:42.039Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4500,7 +4500,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402038,
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
@@ -4518,7 +4518,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Two Pointers/Compare Version Numbers/"
@@ -4538,7 +4538,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "1 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Backtracking/Path Sum II/"
@@ -4559,7 +4559,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "7 ms",
               "memory": "56.1 MB",
               "githubPath": "LeetCode/Linked List/Sort List/"
@@ -4578,7 +4578,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "1 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers II/"
@@ -4595,7 +4595,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "11 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/String/Valid Number/"
@@ -4614,7 +4614,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "13 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
@@ -4634,7 +4634,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568402039,
               "runtime": "13 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
@@ -4654,7 +4654,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498764030,
+              "syncedAt": 1790568402039,
               "runtime": "4 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/String/Longest Valid Parentheses/"
