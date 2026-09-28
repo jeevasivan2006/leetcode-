@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:06:25.543Z",
+  "lastUpdated": "2026-09-28T04:06:34.910Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4373,7 +4373,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568394909,
               "runtime": "5 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/String/Simplify Path/"
@@ -4390,7 +4390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568394909,
               "runtime": "349 ms",
               "memory": "87.8 MB",
               "githubPath": "LeetCode/Dynamic Programming/Student Attendance Record II/"
@@ -4408,7 +4408,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568394909,
               "runtime": "4 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Consecutive Numbers Sum/"
@@ -4429,7 +4429,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568394909,
               "runtime": "42 ms",
               "memory": "60.7 MB",
               "githubPath": "LeetCode/Array/Maximum Gap/"
@@ -4447,7 +4447,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568394909,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Sum of Two Integers/"
@@ -4465,7 +4465,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498751662,
+              "syncedAt": 1790568394910,
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Nth Digit/"
@@ -4483,7 +4483,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498757625,
+              "syncedAt": 1790568394910,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/String/Additive Number/"
