@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-27T08:49:29.349Z",
+  "lastUpdated": "2026-09-28T04:02:12.876Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -262,7 +262,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568132876,
               "runtime": "481 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -636,7 +636,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568132874,
               "runtime": "274 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Odd and Even Transactions/"
@@ -3008,7 +3008,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498573168,
+              "syncedAt": 1790568132874,
               "runtime": "566 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Books with No Available Copies/"
@@ -5690,10 +5690,129 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790498969349,
+              "syncedAt": 1790568132874,
               "runtime": "496 ms",
-              "memory": "0B",
+              "memory": "0.0B",
               "githubPath": "LeetCode/Database/Reformat Department Table/"
+            }
+          }
+        },
+        "project-employees-i": {
+          "questionId": "1075",
+          "title": "Project Employees I",
+          "titleSlug": "project-employees-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132873,
+              "runtime": "487 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Project Employees I/"
+            }
+          }
+        },
+        "product-sales-analysis-i": {
+          "questionId": "1068",
+          "title": "Product Sales Analysis I",
+          "titleSlug": "product-sales-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132873,
+              "runtime": "1321 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Product Sales Analysis I/"
+            }
+          }
+        },
+        "actors-and-directors-who-cooperated-at-least-three-times": {
+          "questionId": "1050",
+          "title": "Actors and Directors Who Cooperated At Least Three Times",
+          "titleSlug": "actors-and-directors-who-cooperated-at-least-three-times",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132873,
+              "runtime": "380 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
+            }
+          }
+        },
+        "swap-sex-of-employees": {
+          "questionId": "627",
+          "title": "Swap Sex of Employees",
+          "titleSlug": "swap-sex-of-employees",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132874,
+              "runtime": "258 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Swap Sex of Employees/"
+            }
+          }
+        },
+        "sales-person": {
+          "questionId": "607",
+          "title": "Sales Person",
+          "titleSlug": "sales-person",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132874,
+              "runtime": "1231 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Sales Person/"
+            }
+          }
+        },
+        "biggest-single-number": {
+          "questionId": "619",
+          "title": "Biggest Single Number",
+          "titleSlug": "biggest-single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132874,
+              "runtime": "588 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Biggest Single Number/"
+            }
+          }
+        },
+        "list-the-products-ordered-in-a-period": {
+          "questionId": "1327",
+          "title": "List the Products Ordered in a Period",
+          "titleSlug": "list-the-products-ordered-in-a-period",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1790568132874,
+              "runtime": "818 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/List the Products Ordered in a Period/"
             }
           }
         }
