@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:07:29.533Z",
+  "lastUpdated": "2026-09-28T04:07:34.125Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5495,7 +5495,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498795472,
+              "syncedAt": 1790568454125,
               "runtime": "3 ms",
               "memory": "59 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
@@ -5513,7 +5513,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498795472,
+              "syncedAt": 1790568454125,
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
