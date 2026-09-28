@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T04:05:34.897Z",
+  "lastUpdated": "2026-09-28T04:05:45.741Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3028,7 +3028,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345738,
               "runtime": "46 ms",
               "memory": "169.1 MB",
               "githubPath": "LeetCode/Array/Length of the Longest Increasing Path/"
@@ -3048,7 +3048,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345738,
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Kth Smallest Instructions/"
@@ -3065,7 +3065,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "189 ms",
               "memory": "51.8 MB",
               "githubPath": "LeetCode/Dynamic Programming/Count Beautiful Numbers/"
@@ -3084,7 +3084,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "35 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Math/Count of Integers/"
@@ -3105,7 +3105,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "67 ms",
               "memory": "138.9 MB",
               "githubPath": "LeetCode/Dynamic Programming/Sum of Distances in Tree/"
@@ -3125,7 +3125,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "224 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Find K-th Smallest Pair Distance/"
@@ -3144,7 +3144,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "36 ms",
               "memory": "64.8 MB",
               "githubPath": "LeetCode/Array/Sum of Subsequence Widths/"
@@ -3165,7 +3165,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "8 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Create Maximum Number/"
@@ -3187,7 +3187,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "148 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Hash Table/Longest Subsequence Repeated k Times/"
@@ -3207,7 +3207,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Nth Magical Number/"
@@ -3225,7 +3225,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345739,
               "runtime": "7 ms",
               "memory": "76.9 MB",
               "githubPath": "LeetCode/Array/Smallest Rotation with Highest Score/"
@@ -3243,7 +3243,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712577,
+              "syncedAt": 1790568345741,
               "runtime": "0 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Largest Palindrome Product/"
@@ -3264,7 +3264,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498712578,
+              "syncedAt": 1790568345741,
               "runtime": "23 ms",
               "memory": "52.8 MB",
               "githubPath": "LeetCode/Hash Table/Basic Calculator IV/"
@@ -3287,7 +3287,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498719661,
+              "syncedAt": 1790568345741,
               "runtime": "2 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
@@ -3311,7 +3311,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790498719661,
+              "syncedAt": 1790568345741,
               "runtime": "314 ms",
               "memory": "131.7 MB",
               "githubPath": "LeetCode/Array/Count of Range Sum/"
