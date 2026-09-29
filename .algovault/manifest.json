@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-29T10:56:11.022Z",
+  "lastUpdated": "2026-09-29T10:56:17.166Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5833,6 +5833,12 @@
               "runtime": "72 ms",
               "memory": "123.3 MB",
               "githubPath": "LeetCode/Array/ Check if There Is a Valid Parentheses String Path/"
+            },
+            "123456789101112131415class solution {    int m, n;    boolean[][][] dp;    public boolean hasvalidpath(char[][] grid) {        m = grid.length;        n = grid[0].length;        if ((m + n - 1) % 2 != 0) return false;        if (grid[0][0] == ')' || grid[m - 1][n - 1] == '(') return false;        dp = new boolean[m][n][m + n + 1];        return helper(grid, 0, 0, 0);    }": {
+              "syncedAt": 1790679377166,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Check if There Is a Valid Parentheses String Path/"
             }
           }
         },
