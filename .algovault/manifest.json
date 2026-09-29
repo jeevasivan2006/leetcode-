@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-29T10:55:02.859Z",
+  "lastUpdated": "2026-09-29T10:55:02.590Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3008,7 +3008,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "566 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Books with No Available Copies/"
@@ -5690,7 +5690,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "496 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Reformat Department Table/"
@@ -5707,7 +5707,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302856,
+              "syncedAt": 1790679302589,
               "runtime": "487 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Project Employees I/"
@@ -5724,7 +5724,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302856,
+              "syncedAt": 1790679302589,
               "runtime": "1321 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
@@ -5741,7 +5741,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "380 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
@@ -5758,7 +5758,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "258 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Swap Sex of Employees/"
@@ -5775,7 +5775,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "1231 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Sales Person/"
@@ -5792,7 +5792,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "588 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Biggest Single Number/"
@@ -5809,7 +5809,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679302859,
+              "syncedAt": 1790679302590,
               "runtime": "818 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/List the Products Ordered in a Period/"
@@ -5829,7 +5829,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679302856,
+              "syncedAt": 1790679302586,
               "runtime": "72 ms",
               "memory": "123.3 MB",
               "githubPath": "LeetCode/Array/ Check if There Is a Valid Parentheses String Path/"
@@ -5848,7 +5848,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679302856,
+              "syncedAt": 1790679302589,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of the Parentheses/"
