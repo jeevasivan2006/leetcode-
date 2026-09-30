@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790679699884" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790761318748" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -135,7 +135,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2213 | [Longest Substring of One Repeating Character](./Array/Longest%20Substring%20of%20One%20Repeating%20Character/) | Hard |
-| 2267 | [ Check if There Is a Valid Parentheses String Path](./Array/Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) | Hard |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./Array/%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) | Hard |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2812 | [Find the Safest Path in a Grid](./Array/Find%20the%20Safest%20Path%20in%20a%20Grid/) | Medium |
@@ -410,6 +410,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./String/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) | Medium |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |
 | 1209 | [Remove All Adjacent Duplicates in String II](./String/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/) | Medium |
 | 1221 | [Split a String in Balanced Strings](./String/Split%20a%20String%20in%20Balanced%20Strings/) | Easy |
