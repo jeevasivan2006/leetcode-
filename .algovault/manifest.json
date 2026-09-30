@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:42:17.998Z",
+  "lastUpdated": "2026-09-30T09:42:24.081Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -402,7 +402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331016,
+              "syncedAt": 1790761344081,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Math/Minimum Number of Pushes to Type Word I/"
@@ -422,7 +422,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331016,
+              "syncedAt": 1790761344081,
               "runtime": "224 ms",
               "memory": "200.1 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Lexicographically Smallest Valid Sequence/"
@@ -442,7 +442,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331016,
+              "syncedAt": 1790761344081,
               "runtime": "1 ms",
               "memory": "69 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -481,7 +481,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679338766,
+              "syncedAt": 1790761344081,
               "runtime": "46 ms",
               "memory": "280.2 MB",
               "githubPath": "LeetCode/Depth-First Search/Remove Methods From Project/"
@@ -503,7 +503,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679338766,
+              "syncedAt": 1790761344081,
               "runtime": "6 ms",
               "memory": "85.5 MB",
               "githubPath": "LeetCode/Array/Stone Game III/"
@@ -523,7 +523,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679338766,
+              "syncedAt": 1790761344081,
               "runtime": "4 ms",
               "memory": "52.1 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
@@ -543,7 +543,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679338766,
+              "syncedAt": 1790761344081,
               "runtime": "395 ms",
               "memory": "49.2 MB",
               "githubPath": "LeetCode/Array/Subarray Product Less Than K/"
@@ -563,7 +563,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679338766,
+              "syncedAt": 1790761344081,
               "runtime": "1203 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Permutation in String/"
@@ -582,7 +582,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679338767,
+              "syncedAt": 1790761344081,
               "runtime": "1460 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Hash Table/Find All Anagrams in a String/"
