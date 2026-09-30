@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:43:35.564Z",
+  "lastUpdated": "2026-09-30T09:43:40.198Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1173,7 +1173,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679371022,
+              "syncedAt": 1790761420198,
               "runtime": "10 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Find Minimum Time to Finish All Jobs/"
@@ -1190,7 +1190,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679371022,
+              "syncedAt": 1790761420198,
               "runtime": "564 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Followers Count/"
@@ -1207,7 +1207,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568206761,
+              "syncedAt": 1790761420198,
               "runtime": "469 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
@@ -1224,7 +1224,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568212053,
+              "syncedAt": 1790761420198,
               "runtime": "327 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
@@ -1241,7 +1241,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568212053,
+              "syncedAt": 1790761420198,
               "runtime": "347 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Duplicate Emails/"
@@ -1258,7 +1258,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790568212053,
+              "syncedAt": 1790761420198,
               "runtime": "291 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Not Boring Movies/"
