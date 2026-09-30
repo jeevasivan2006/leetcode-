@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:43:48.943Z",
+  "lastUpdated": "2026-09-30T09:43:54.143Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1494,7 +1494,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568224090,
+              "syncedAt": 1790761434142,
               "runtime": "33 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Count Subarrays With Majority Element I/"
@@ -1513,7 +1513,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568224090,
+              "syncedAt": 1790761434142,
               "runtime": "3 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -1532,7 +1532,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568229923,
+              "syncedAt": 1790761434143,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -1551,7 +1551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568229923,
+              "syncedAt": 1790761434143,
               "runtime": "3 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -1569,7 +1569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568229923,
+              "syncedAt": 1790761434143,
               "runtime": "1 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -1590,7 +1590,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568229923,
+              "syncedAt": 1790761434143,
               "runtime": "137 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/Word Search/"
