@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:44:06.539Z",
+  "lastUpdated": "2026-09-30T09:44:10.854Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1815,7 +1815,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568263026,
+              "syncedAt": 1790761450854,
               "runtime": "16 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
@@ -1837,7 +1837,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568263026,
+              "syncedAt": 1790761450854,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
