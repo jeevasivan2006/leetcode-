@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:45:54.980Z",
+  "lastUpdated": "2026-09-30T09:45:59.860Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4465,7 +4465,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568394910,
+              "syncedAt": 1790761559859,
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Nth Digit/"
@@ -4483,7 +4483,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568394910,
+              "syncedAt": 1790761559859,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/String/Additive Number/"
@@ -4500,7 +4500,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402038,
+              "syncedAt": 1790761559859,
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List II/"
@@ -4518,7 +4518,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761559860,
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Two Pointers/Compare Version Numbers/"
@@ -4538,7 +4538,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761559860,
               "runtime": "1 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Backtracking/Path Sum II/"
@@ -4559,7 +4559,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761559860,
               "runtime": "7 ms",
               "memory": "56.1 MB",
               "githubPath": "LeetCode/Linked List/Sort List/"
@@ -4578,7 +4578,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761559860,
               "runtime": "1 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers II/"
@@ -4595,7 +4595,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761559860,
               "runtime": "11 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/String/Valid Number/"
