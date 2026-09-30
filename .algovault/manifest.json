@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:58:45.046Z",
+  "lastUpdated": "2026-09-30T09:58:50.236Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1471,7 +1471,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761428943,
+              "syncedAt": 1790762330236,
               "runtime": "6 ms",
               "memory": "69.8 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -1494,7 +1494,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761434142,
+              "syncedAt": 1790762330236,
               "runtime": "33 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Count Subarrays With Majority Element I/"
@@ -1513,7 +1513,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761434142,
+              "syncedAt": 1790762330236,
               "runtime": "3 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
@@ -1532,7 +1532,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761434143,
+              "syncedAt": 1790762330236,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Subsets/"
@@ -1551,7 +1551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761434143,
+              "syncedAt": 1790762330236,
               "runtime": "3 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -1569,7 +1569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761434143,
+              "syncedAt": 1790762330236,
               "runtime": "1 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -1590,7 +1590,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761434143,
+              "syncedAt": 1790762330236,
               "runtime": "137 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Array/Word Search/"
