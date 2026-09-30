@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:46:33.376Z",
+  "lastUpdated": "2026-09-30T09:46:36.740Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5438,7 +5438,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568444043,
+              "syncedAt": 1790761596740,
               "runtime": "3 ms",
               "memory": "50.4 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -5456,7 +5456,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568449533,
+              "syncedAt": 1790761596740,
               "runtime": "1 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Array/Average Salary Excluding the Minimum and Maximum Salary/"
@@ -5478,7 +5478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568449533,
+              "syncedAt": 1790761596740,
               "runtime": "6 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
