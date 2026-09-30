@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:46:39.379Z",
+  "lastUpdated": "2026-09-30T09:46:43.481Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5513,7 +5513,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568454125,
+              "syncedAt": 1790761603480,
               "runtime": "0 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Binary Search/"
@@ -5531,7 +5531,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568459808,
+              "syncedAt": 1790761603480,
               "runtime": "8 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -5548,7 +5548,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568459808,
+              "syncedAt": 1790761603481,
               "runtime": "1 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
@@ -5565,7 +5565,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568459809,
+              "syncedAt": 1790761603481,
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
