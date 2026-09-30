@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:46:04.600Z",
+  "lastUpdated": "2026-09-30T09:46:12.607Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5876,6 +5876,12 @@
               "syncedAt": 1790761392029,
               "runtime": "1 ms",
               "memory": "45.7 MB",
+              "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
+            },
+            "1234567891011121314151617class solution {     public int[] maxdepthaftersplit(string seq) {         int n = seq.length();        int[] ans = new int[n];        int depth = 0;        for (int i = 0; i < n; ++i) {            if (seq.charat(i) == '(') {                ++depth;                ans[i] = depth % 2;            } else {                ans[i] = depth % 2;                --depth;            }        }        return ans;    } }": {
+              "syncedAt": 1790761572607,
+              "runtime": "1 ms",
+              "memory": "45.68 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
             }
           }
