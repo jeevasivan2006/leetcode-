@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:44:39.146Z",
+  "lastUpdated": "2026-09-30T09:44:45.201Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2342,7 +2342,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568296177,
+              "syncedAt": 1790761485201,
               "runtime": "4 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Find K Closest Elements/"
@@ -2361,7 +2361,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568296177,
+              "syncedAt": 1790761485201,
               "runtime": "5 ms",
               "memory": "159.4 MB",
               "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
@@ -2381,7 +2381,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568302216,
+              "syncedAt": 1790761485201,
               "runtime": "22 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Binary Subarrays With Sum/"
@@ -2402,7 +2402,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568302216,
+              "syncedAt": 1790761485201,
               "runtime": "43 ms",
               "memory": "57.1 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
@@ -2421,7 +2421,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568302216,
+              "syncedAt": 1790761485201,
               "runtime": "25 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
@@ -2440,7 +2440,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568302217,
+              "syncedAt": 1790761485201,
               "runtime": "2 ms",
               "memory": "61.6 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
@@ -2460,7 +2460,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568302217,
+              "syncedAt": 1790761485201,
               "runtime": "2 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Longest Mountain in Array/"
