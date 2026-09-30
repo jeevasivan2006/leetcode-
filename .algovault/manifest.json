@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:58:07.328Z",
+  "lastUpdated": "2026-09-30T09:58:11.807Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -601,7 +601,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761404748,
+              "syncedAt": 1790762291807,
               "runtime": "67 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
@@ -619,7 +619,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761404748,
+              "syncedAt": 1790762291807,
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
@@ -658,7 +658,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761404748,
+              "syncedAt": 1790762291807,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Stone Game/"
@@ -677,7 +677,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761404748,
+              "syncedAt": 1790762291807,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
