@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:45:59.860Z",
+  "lastUpdated": "2026-09-30T09:46:04.600Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4614,7 +4614,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761564599,
               "runtime": "13 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/3Sum Closest/"
@@ -4634,7 +4634,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761564600,
               "runtime": "13 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
@@ -4654,7 +4654,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568402039,
+              "syncedAt": 1790761564600,
               "runtime": "4 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/String/Longest Valid Parentheses/"
@@ -4673,7 +4673,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411587,
+              "syncedAt": 1790761564600,
               "runtime": "1 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -4692,7 +4692,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761564600,
               "runtime": "31 ms",
               "memory": "51.7 MB",
               "githubPath": "LeetCode/Array/3Sum/"
@@ -4710,7 +4710,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761564600,
               "runtime": "1 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
@@ -4731,7 +4731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761564600,
               "runtime": "5 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Target Sum/"
