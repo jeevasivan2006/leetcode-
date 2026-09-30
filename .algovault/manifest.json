@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:59:19.182Z",
+  "lastUpdated": "2026-09-30T09:59:48.722Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5879,10 +5879,29 @@
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
             },
             "1234567891011121314151617class solution {     public int[] maxdepthaftersplit(string seq) {         int n = seq.length();        int[] ans = new int[n];        int depth = 0;        for (int i = 0; i < n; ++i) {            if (seq.charat(i) == '(') {                ++depth;                ans[i] = depth % 2;            } else {                ans[i] = depth % 2;                --depth;            }        }        return ans;    } }": {
-              "syncedAt": 1790762359181,
+              "syncedAt": 1790762060225,
               "runtime": "1 ms",
               "memory": "45.43 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790762388722,
+              "runtime": "2 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
             }
           }
         }
