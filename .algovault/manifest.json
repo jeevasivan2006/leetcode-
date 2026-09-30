@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:56:55.882Z",
+  "lastUpdated": "2026-09-30T09:57:46.634Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -462,7 +462,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761392029,
+              "syncedAt": 1790762266633,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -5707,7 +5707,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790761392030,
+              "syncedAt": 1790762266633,
               "runtime": "487 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Project Employees I/"
@@ -5724,7 +5724,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790761392030,
+              "syncedAt": 1790762266634,
               "runtime": "1321 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
@@ -5741,7 +5741,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790761392030,
+              "syncedAt": 1790762266634,
               "runtime": "380 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
@@ -5758,7 +5758,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790761392030,
+              "syncedAt": 1790762266634,
               "runtime": "258 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Swap Sex of Employees/"
@@ -5829,7 +5829,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761392030,
+              "syncedAt": 1790762266633,
               "runtime": "95 ms",
               "memory": "123.2 MB",
               "githubPath": "LeetCode/Array/ Check if There Is a Valid Parentheses String Path/"
@@ -5854,7 +5854,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761392030,
+              "syncedAt": 1790762266633,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of the Parentheses/"
@@ -5873,13 +5873,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790761392029,
+              "syncedAt": 1790762266633,
               "runtime": "1 ms",
-              "memory": "45.7 MB",
+              "memory": "45.4 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
             },
             "1234567891011121314151617class solution {     public int[] maxdepthaftersplit(string seq) {         int n = seq.length();        int[] ans = new int[n];        int depth = 0;        for (int i = 0; i < n; ++i) {            if (seq.charat(i) == '(') {                ++depth;                ans[i] = depth % 2;            } else {                ans[i] = depth % 2;                --depth;            }        }        return ans;    } }": {
-              "syncedAt": 1790762215881,
+              "syncedAt": 1790762060225,
               "runtime": "1 ms",
               "memory": "45.43 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
