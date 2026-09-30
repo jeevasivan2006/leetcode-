@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:44:56.961Z",
+  "lastUpdated": "2026-09-30T09:45:01.541Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2646,7 +2646,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568318807,
+              "syncedAt": 1790761501540,
               "runtime": "59 ms",
               "memory": "121.5 MB",
               "githubPath": "LeetCode/Array/Construct Product Matrix/"
@@ -2663,7 +2663,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568318807,
+              "syncedAt": 1790761501540,
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Summary Ranges/"
@@ -2682,7 +2682,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568318807,
+              "syncedAt": 1790761501540,
               "runtime": "160 ms",
               "memory": "123 MB",
               "githubPath": "LeetCode/Hash Table/Longest Balanced Substring II/"
@@ -2700,7 +2700,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568325669,
+              "syncedAt": 1790761501541,
               "runtime": "6 ms",
               "memory": "67.3 MB",
               "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
