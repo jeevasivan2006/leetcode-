@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:46:12.607Z",
+  "lastUpdated": "2026-09-30T09:46:12.419Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4749,7 +4749,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761572419,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
@@ -4768,7 +4768,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761572419,
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Power of Four/"
@@ -4788,7 +4788,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761572419,
               "runtime": "5 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Largest Number/"
@@ -4808,7 +4808,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761572419,
               "runtime": "14 ms",
               "memory": "58.9 MB",
               "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
@@ -4826,7 +4826,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761572419,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
@@ -4846,7 +4846,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411588,
+              "syncedAt": 1790761572419,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -4864,7 +4864,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568411589,
+              "syncedAt": 1790761572419,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -4882,7 +4882,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568421411,
+              "syncedAt": 1790761572419,
               "runtime": "5 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/String/Edit Distance/"
@@ -4901,7 +4901,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568421411,
+              "syncedAt": 1790761572419,
               "runtime": "5 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -4920,7 +4920,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568421411,
+              "syncedAt": 1790761572419,
               "runtime": "7 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
@@ -4938,7 +4938,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568421412,
+              "syncedAt": 1790761572419,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Linked List/Remove Nth Node From End of List/"
@@ -5876,12 +5876,6 @@
               "syncedAt": 1790761392029,
               "runtime": "1 ms",
               "memory": "45.7 MB",
-              "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
-            },
-            "1234567891011121314151617class solution {     public int[] maxdepthaftersplit(string seq) {         int n = seq.length();        int[] ans = new int[n];        int depth = 0;        for (int i = 0; i < n; ++i) {            if (seq.charat(i) == '(') {                ++depth;                ans[i] = depth % 2;            } else {                ans[i] = depth % 2;                --depth;            }        }        return ans;    } }": {
-              "syncedAt": 1790761572607,
-              "runtime": "1 ms",
-              "memory": "45.68 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
             }
           }
