@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:44:45.201Z",
+  "lastUpdated": "2026-09-30T09:44:48.891Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2478,7 +2478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568302217,
+              "syncedAt": 1790761488891,
               "runtime": "1 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Maximum Total Subarray Value I/"
@@ -2496,7 +2496,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568307716,
+              "syncedAt": 1790761488891,
               "runtime": "3 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Candy/"
