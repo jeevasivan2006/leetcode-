@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:46:36.740Z",
+  "lastUpdated": "2026-09-30T09:46:39.379Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5495,7 +5495,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568454125,
+              "syncedAt": 1790761599379,
               "runtime": "3 ms",
               "memory": "59 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
