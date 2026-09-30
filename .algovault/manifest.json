@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:44:29.710Z",
+  "lastUpdated": "2026-09-30T09:44:35.089Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2187,7 +2187,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568289418,
+              "syncedAt": 1790761475089,
               "runtime": "108 ms",
               "memory": "293.1 MB",
               "githubPath": "LeetCode/Array/Number of Ways to Assign Edge Weights II/"
@@ -2204,7 +2204,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568289418,
+              "syncedAt": 1790761475089,
               "runtime": "41 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
@@ -2224,7 +2224,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568289418,
+              "syncedAt": 1790761475089,
               "runtime": "39 ms",
               "memory": "54.4 MB",
               "githubPath": "LeetCode/Array/Equal Row and Column Pairs/"
