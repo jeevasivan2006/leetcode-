@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:43:15.813Z",
+  "lastUpdated": "2026-09-30T09:43:18.754Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,7 +15,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331015,
+              "syncedAt": 1790761398753,
               "runtime": "2 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
@@ -33,7 +33,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331014,
+              "syncedAt": 1790761398753,
               "runtime": "2 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
@@ -50,7 +50,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679317635,
+              "syncedAt": 1790761398753,
               "runtime": "803 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
@@ -160,7 +160,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679317635,
+              "syncedAt": 1790761398753,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -177,7 +177,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679317635,
+              "syncedAt": 1790761398753,
               "runtime": "929 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
@@ -194,7 +194,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679317635,
+              "syncedAt": 1790761398753,
               "runtime": "1033 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -211,7 +211,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679331014,
+              "syncedAt": 1790761398753,
               "runtime": "383 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -228,7 +228,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679331014,
+              "syncedAt": 1790761398753,
               "runtime": "486 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
@@ -245,7 +245,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790679331014,
+              "syncedAt": 1790761398753,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -282,7 +282,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331015,
+              "syncedAt": 1790761398753,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
@@ -302,7 +302,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331015,
+              "syncedAt": 1790761398753,
               "runtime": "122 ms",
               "memory": "156.2 MB",
               "githubPath": "LeetCode/Array/Longest Substring of One Repeating Character/"
@@ -325,7 +325,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331015,
+              "syncedAt": 1790761398753,
               "runtime": "2 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
@@ -344,7 +344,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331015,
+              "syncedAt": 1790761398753,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -363,7 +363,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790679331015,
+              "syncedAt": 1790761398754,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
