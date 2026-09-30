@@ -1,69 +1,81 @@
 # 1111. Maximum Nesting Depth of Two Valid Parentheses Strings
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>A string is a <em>valid parentheses string</em>&nbsp;(denoted VPS) if and only if it consists of <code>&quot;(&quot;</code> and <code>&quot;)&quot;</code> characters only, and:</p>
+A string is a valid parentheses string (denoted VPS) if and only if it consists of "(" and ")" characters only, and:
 
-<ul>
-	<li>It is the empty string, or</li>
-	<li>It can be written as&nbsp;<code>AB</code>&nbsp;(<code>A</code>&nbsp;concatenated with&nbsp;<code>B</code>), where&nbsp;<code>A</code>&nbsp;and&nbsp;<code>B</code>&nbsp;are VPS&#39;s, or</li>
-	<li>It can be written as&nbsp;<code>(A)</code>, where&nbsp;<code>A</code>&nbsp;is a VPS.</li>
-</ul>
 
-<p>We can&nbsp;similarly define the <em>nesting depth</em> <code>depth(S)</code> of any VPS <code>S</code> as follows:</p>
+	It is the empty string, or
+	It can be written as AB (A concatenated with B), where A and B are VPS's, or
+	It can be written as (A), where A is a VPS.
 
-<ul>
-	<li><code>depth(&quot;&quot;) = 0</code></li>
-	<li><code>depth(A + B) = max(depth(A), depth(B))</code>, where <code>A</code> and <code>B</code> are VPS&#39;s</li>
-	<li><code>depth(&quot;(&quot; + A + &quot;)&quot;) = 1 + depth(A)</code>, where <code>A</code> is a VPS.</li>
-</ul>
 
-<p>For example, <code>&quot;&quot;</code>,&nbsp;<code>&quot;()()&quot;</code>, and&nbsp;<code>&quot;()(()())&quot;</code>&nbsp;are VPS&#39;s (with nesting depths 0, 1, and 2), and <code>&quot;)(&quot;</code> and <code>&quot;(()&quot;</code> are not VPS&#39;s.</p>
+We can similarly define the nesting depth depth(S) of any VPS S as follows:
 
-<p>Given a VPS <font face="monospace">seq</font>, split it into two disjoint subsequences <code>A</code> and <code>B</code>, such that&nbsp;<code>A</code> and <code>B</code> are VPS&#39;s (and&nbsp;<code>A.length + B.length = seq.length</code>). The subsequences may not necessarily be contiguous.</p>
 
-<p>For example, for the sequence <code>123456789</code>, one possible split is:</p>
+	depth("") = 0
+	depth(A + B) = max(depth(A), depth(B)), where A and B are VPS's
+	depth("(" + A + ")") = 1 + depth(A), where A is a VPS.
 
-<ul data-end="822" data-start="776">
-	<li data-end="800" data-start="776">
-	<p data-end="800" data-start="778"><code data-end="799" data-start="778">A = {1, 3, 5, 7, 9}</code>,</p>
-	</li>
-	<li data-end="822" data-start="801">
-	<p data-end="822" data-start="803"><code data-end="821" data-start="803">B = {2, 4, 6, 8}</code>.</p>
-	</li>
-</ul>
 
-<p data-end="855" data-start="824">This corresponds to the output <code>[0, 1, 0, 1, 0, 1, 0, 1, 0]</code> &nbsp;where 0 indicates membership in&nbsp;<code data-end="929" data-start="926">A</code>&nbsp;and 1 indicates membership in&nbsp;<code data-end="965" data-start="962">B</code>.</p>
+For example, "", "()()", and "()(()())" are VPS's (with nesting depths 0, 1, and 2), and ")(" and "(()" are not VPS's.
 
-<p>Now choose <strong>any</strong> such <code>A</code> and <code>B</code> such that&nbsp;<code>max(depth(A), depth(B))</code> is the minimum possible value.</p>
+Given a VPS seq, split it into two disjoint subsequences A and B, such that A and B are VPS's (and A.length + B.length = seq.length). The subsequences may not necessarily be contiguous.
 
-<p>Return an <code>answer</code> array (of length <code>seq.length</code>) that encodes such a&nbsp;choice of <code>A</code> and <code>B</code>:&nbsp; <code>answer[i] = 0</code> if <code>seq[i]</code> is part of <code>A</code>, else <code>answer[i] = 1</code>.&nbsp; Note that even though multiple answers may exist, you may return any of them.</p>
+For example, for the sequence 123456789, one possible split is:
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> seq = &quot;(()())&quot;
-<strong>Output:</strong> [0,1,1,1,1,0]
-</pre>
+	
+	A = {1, 3, 5, 7, 9},
+	
+	
+	B = {2, 4, 6, 8}.
+	
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> seq = &quot;()(())()&quot;
-<strong>Output:</strong> [0,0,0,1,1,0,1,1]
-</pre>
+This corresponds to the output [0, 1, 0, 1, 0, 1, 0, 1, 0]  where 0 indicates membership in A and 1 indicates membership in B.
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Now choose any such A and B such that max(depth(A), depth(B)) is the minimum possible value.
 
-<ul>
-	<li><code>1 &lt;= seq.size &lt;= 10000</code></li>
-</ul>
+Return an answer array (of length seq.length) that encodes such a choice of A and B:  answer[i] = 0 if seq[i] is part of A, else answer[i] = 1.  Note that even though multiple answers may exist, you may return any of them.
 
+ 
+Example 1:
+
+Input: seq = "(()())"
+Output: [0,1,1,1,1,0]
+
+
+Example 2:
+
+Input: seq = "()(())()"
+Output: [0,0,0,1,1,0,1,1]
+
+
+ 
+Constraints:
+
+
+	1 <= seq.size <= 10000
+
+## Examples
+
+```
+Input: seq = "(()())"
+Output: [0,1,1,1,1,0]
+
+Input: seq = "()(())()"
+Output: [0,0,0,1,1,0,1,1]
+```
+
+## Constraints
+
+- It is the empty string, or
+- It can be written as AB (A concatenated with B), where A and B are VPS's, or
+- It can be written as (A), where A is a VPS.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

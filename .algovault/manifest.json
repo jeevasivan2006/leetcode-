@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:59:16.880Z",
+  "lastUpdated": "2026-09-30T09:59:19.182Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1999,7 +1999,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762356880,
+              "syncedAt": 1790761461498,
               "runtime": "11 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/String/Dota2 Senate/"
@@ -2018,7 +2018,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762356880,
+              "syncedAt": 1790761461498,
               "runtime": "20 ms",
               "memory": "80.7 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -2036,7 +2036,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762356880,
+              "syncedAt": 1790761461498,
               "runtime": "4 ms",
               "memory": "55.1 MB",
               "githubPath": "LeetCode/String/Process String with Special Operations I/"
@@ -5879,7 +5879,7 @@
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
             },
             "1234567891011121314151617class solution {     public int[] maxdepthaftersplit(string seq) {         int n = seq.length();        int[] ans = new int[n];        int depth = 0;        for (int i = 0; i < n; ++i) {            if (seq.charat(i) == '(') {                ++depth;                ans[i] = depth % 2;            } else {                ans[i] = depth % 2;                --depth;            }        }        return ans;    } }": {
-              "syncedAt": 1790762060225,
+              "syncedAt": 1790762359181,
               "runtime": "1 ms",
               "memory": "45.43 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
