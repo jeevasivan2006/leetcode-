@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:44:21.498Z",
+  "lastUpdated": "2026-09-30T09:44:24.948Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2055,7 +2055,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568275389,
+              "syncedAt": 1790761464948,
               "runtime": "21 ms",
               "memory": "59.8 MB",
               "githubPath": "LeetCode/Design/Number of Recent Calls/"
@@ -2073,7 +2073,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568275390,
+              "syncedAt": 1790761464948,
               "runtime": "13 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/String/Remove All Adjacent Duplicates in String II/"
@@ -2090,7 +2090,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568275390,
+              "syncedAt": 1790761464948,
               "runtime": "2113 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Perfect Number/"
