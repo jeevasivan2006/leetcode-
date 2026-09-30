@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:43:44.817Z",
+  "lastUpdated": "2026-09-30T09:43:48.943Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1392,7 +1392,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568218686,
+              "syncedAt": 1790761428943,
               "runtime": "51 ms",
               "memory": "93.1 MB",
               "githubPath": "LeetCode/Array/Maximum Erasure Value/"
@@ -1413,7 +1413,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568218686,
+              "syncedAt": 1790761428943,
               "runtime": "23 ms",
               "memory": "139.7 MB",
               "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
@@ -1435,7 +1435,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568224089,
+              "syncedAt": 1790761428943,
               "runtime": "2 ms",
               "memory": "87.9 MB",
               "githubPath": "LeetCode/Array/Count Subarrays With Majority Element II/"
@@ -1453,7 +1453,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568224090,
+              "syncedAt": 1790761428943,
               "runtime": "11 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
@@ -1471,7 +1471,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568224090,
+              "syncedAt": 1790761428943,
               "runtime": "6 ms",
               "memory": "69.8 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
