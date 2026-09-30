@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:43:58.373Z",
+  "lastUpdated": "2026-09-30T09:44:02.430Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1703,7 +1703,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568236992,
+              "syncedAt": 1790761442430,
               "runtime": "339 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Dynamic Programming/Number of ZigZag Arrays I/"
@@ -1722,7 +1722,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568236992,
+              "syncedAt": 1790761442430,
               "runtime": "2 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -1742,7 +1742,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568252350,
+              "syncedAt": 1790761442430,
               "runtime": "37 ms",
               "memory": "83.9 MB",
               "githubPath": "LeetCode/Array/Maximum Ice Cream Bars/"
