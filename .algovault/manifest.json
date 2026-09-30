@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:46:21.074Z",
+  "lastUpdated": "2026-09-30T09:46:27.509Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5067,7 +5067,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568427386,
+              "syncedAt": 1790761587508,
               "runtime": "1 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
@@ -5086,7 +5086,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568427386,
+              "syncedAt": 1790761587508,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/String/Split a String in Balanced Strings/"
@@ -5104,7 +5104,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568427386,
+              "syncedAt": 1790761587508,
               "runtime": "3 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
@@ -5121,7 +5121,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568436054,
+              "syncedAt": 1790761587508,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
@@ -5139,7 +5139,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568436054,
+              "syncedAt": 1790761587508,
               "runtime": "1 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -5161,7 +5161,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568436054,
+              "syncedAt": 1790761587508,
               "runtime": "5 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
@@ -5178,7 +5178,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568436054,
+              "syncedAt": 1790761587508,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
@@ -5196,7 +5196,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568436054,
+              "syncedAt": 1790761587509,
               "runtime": "0 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -5214,7 +5214,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790568436055,
+              "syncedAt": 1790761587509,
               "runtime": "7 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
