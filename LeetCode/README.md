@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1790762388723" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/jeevasivan?theme=tokyonight&show=graph,recent&v=1791449548790" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](./Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
@@ -410,6 +411,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
+| 921 | [Minimum Add to Make Parentheses Valid](./String/Minimum%20Add%20to%20Make%20Parentheses%20Valid/) | Medium |
+| 1021 | [Remove Outermost Parentheses](./String/Remove%20Outermost%20Parentheses/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](./String/Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) | Medium |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./String/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) | Medium |

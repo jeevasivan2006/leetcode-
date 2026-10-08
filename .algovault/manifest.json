@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T09:59:48.722Z",
+  "lastUpdated": "2026-10-08T08:52:28.787Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -462,7 +462,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762266633,
+              "syncedAt": 1791449548787,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -5707,7 +5707,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790762266633,
+              "syncedAt": 1791449548787,
               "runtime": "487 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Project Employees I/"
@@ -5724,7 +5724,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790762266634,
+              "syncedAt": 1791449548787,
               "runtime": "1321 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
@@ -5741,7 +5741,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1790762266634,
+              "syncedAt": 1791449548787,
               "runtime": "380 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
@@ -5829,7 +5829,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762266633,
+              "syncedAt": 1791449548787,
               "runtime": "95 ms",
               "memory": "123.2 MB",
               "githubPath": "LeetCode/Array/ Check if There Is a Valid Parentheses String Path/"
@@ -5854,7 +5854,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762266633,
+              "syncedAt": 1791449548787,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of the Parentheses/"
@@ -5873,7 +5873,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762266633,
+              "syncedAt": 1791449548787,
               "runtime": "1 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of Two Valid Parentheses Strings/"
@@ -5898,10 +5898,67 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790762388722,
+              "syncedAt": 1791449548787,
               "runtime": "2 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791449548786,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "remove-outermost-parentheses": {
+          "questionId": "1021",
+          "title": "Remove Outermost Parentheses",
+          "titleSlug": "remove-outermost-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791449548787,
+              "runtime": "2 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/String/Remove Outermost Parentheses/"
+            }
+          }
+        },
+        "minimum-add-to-make-parentheses-valid": {
+          "questionId": "921",
+          "title": "Minimum Add to Make Parentheses Valid",
+          "titleSlug": "minimum-add-to-make-parentheses-valid",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1791449548787,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/Minimum Add to Make Parentheses Valid/"
             }
           }
         }
